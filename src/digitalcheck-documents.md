@@ -34,6 +34,8 @@ Der Digitalcheck besteht aus zwei Schritten:
 - Mit der **Vorprüfung** prüfen Sie, ob Ihr Regelungsvorhaben Digitalbezug hat.
 - Bei Digitalbezug erarbeiten Sie eine digitaltaugliche Regelung mithilfe der **begleitenden Dokumentation** sowie unterstützender Methoden.
 
+![Die zwei Schritte des Digitalcheck nacheinander auf einer Zeitachse abgebildet](./img/Ablaufdiagramm.png "Ablaufdiagramm des Digitalchecks")
+
 ### Schritt 1: Die Vorprüfung
 
 Führen Sie die Vorprüfung durch, **sobald Sie die Arbeit an Ihrem Regelungsvorhaben beginnen**, spätestens aber bevor Sie konkrete Rechtsnormen formulieren.  
@@ -151,6 +153,8 @@ Notieren Sie die am Vollzug Beteiligten und deren Aktionen. Fragen Sie sich:
 
 Der Start mag Ihnen leichter fallen, wenn Sie als Basis eine zeitliche Abfolge wählen.  
 Hier sind einige Elemente, die Sie nutzen können:
+
+![Grafische Darstellung der oben beschriebenen Visualisierungs-Elemente](./img/Visualisierung-Elemente.png "Visualisierungs-Elemente eines Flussdiagramms")
 
 #### Wenn die erste Skizze steht: wenden Sie die fünf Prinzipien für digitaltaugliche Regelungen darauf an
 
