@@ -27,6 +27,10 @@ Der Digitalcheck wird iterativ erarbeitet und kontinuierlich verbessert – auch
   - Die fünf Prinzipien für digitaltaugliche Gesetze 
   - Die begleitende Dokumentation der Digitaltauglichkeit (**verbindlich**)
 
+**Benötigen Sie Hilfe?** Sie erreichen uns unter [digitalcheck@digitalservice.bund.de](mailto:digitalcheck@digitalservice.bund.de) oder 0151 4076 7839. Wir helfen Ihnen weiter.
+Version 1.2 - 27.07.2023 | **Bitte stellen Sie sicher**, immer die aktuelle Version der Dokumente zu nutzen. Diese finden Sie hier:
+[https://www.onlinezugangsgesetz.de/Webs/OZG/DE/grundlagen/digitaltaugliche-gesetzgebung/digitalcheck-gesetze-tauglich-gestalten/entwicklung-digitalcheck/entwicklung-digitalcheck-node.html](https://www.onlinezugangsgesetz.de/Webs/OZG/DE/grundlagen/digitaltaugliche-gesetzgebung/digitalcheck-gesetze-tauglich-gestalten/entwicklung-digitalcheck/entwicklung-digitalcheck-node.html)
+
 ## Anleitung zum Digitalcheck
 
 ### Zusammengefasst
