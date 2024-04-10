@@ -67,6 +67,8 @@ Der NKR prüft Regelungen auf Möglichkeiten der digitalen Umsetzung auf Basis d
 
 ## Schritt 1: Vorprüfung
 
+**Titel der Regelung**: _[Freitextfeld]_
+
 ### Zusammengefasst
 Führen Sie die Vorprüfung **am Beginn Ihrer Arbeit an einem Regelungsvorhaben** durch, das heißt: vor der Formulierung eines Regelungstextes.
 
@@ -84,7 +86,10 @@ Wenn Sie sich nicht sicher sind, ob Ihre Regelung einen Digitalbezug aufweist od
 
 
 - Der Vollzug der Regelung wird voraussichtlich durch digitale Möglichkeiten nicht verbessert oder erleichtert.   
-**Sollte nur diese Aussage zutreffen**, bearbeiten Sie Schritt 2 nicht. Der Digitalcheck ist beendet.
+**Sollte nur diese Aussage zutreffen**, bearbeiten Sie Schritt 2 nicht. Der Digitalcheck ist beendet.  
+Bitte erläutern Sie hier das Ergebnis:
+
+_[Freitextfeld]_
 
 _*Beteiligte sind in diesem Zusammenhang Bürgerinnen und Bürger, Einwohnende, die Verwaltung, Unternehmen und weitere Organisationen wie z.B. Vereine._
 
@@ -276,6 +281,7 @@ Sie können bei jeder der folgenden Fragen digitaltaugliche Aspekte hervorheben 
 
 Inhaltliche Stichpunkte mit Verweis auf den entsprechenden Paragrafen in der Regelung sind als Erläuterung ausreichend. Verweisen Sie ggf. auch auf andere anwendbare Regelungen.
 
+**Titel der Regelung**: _[Freitextfeld]_
 
 ### Alle Fragen in der begleitenden Dokumentation
 
@@ -333,7 +339,11 @@ Expertinnen und Experten für Digitalisierung, Datenschutz und Gestaltung von Di
 **Welche Schritte haben Sie unternommen, um zu prüfen, ob die Auswirkungen der Regelung den Bedürfnissen der Betroffenen und des Vollzugs entspricht?** Bitte listen Sie stichpunktartig auf, ob bzw. welche Schritte Sie unternommen haben.  
 **Zum Beispiel:** frühzeitige Befragung von betroffenen Bürgerinnen und Bürgern, Gespräche mit Vollzugsakteuren oder Expertinnen und Experten, formelle Beteiligungsverfahren.
 
+_[Freitextfeld]_
+
 **Wie spiegeln sich die Erkenntnisse, die durch die oben genannten Schritte gewonnen wurden, in der Regelung wider?** Bitte listen Sie stichpunktartig auf, welche Erkenntnisse eingearbeitet wurden und geben Sie Hinweise auf Paragrafen, die zum Beispiel den Vollzug regeln.
+
+_[Freitextfeld]_
 
 ### Prinzip 1: Digitale Kommunikation sicherstellen
 
@@ -355,6 +365,13 @@ Digitale Kommunikation sollte immer bedarfsorientiert und inklusiv sein – in b
 Bitte kreuzen Sie eine der Optionen an und listen Sie zwei bis drei Stichpunkte auf. Verweisen Sie dabei auf die jeweiligen Paragrafen und ggf. auch auf andere anwendbare Regelungen.  
 **Zum Beispiel:** “Online-Beratung wird ermöglicht, siehe § 1a (2)”.
 
+- Ja
+- Nein
+- Teilweise
+- Nicht relevant
+
+Erläuterung: _[Freitextfeld]_
+
 ### Prinzip 2: Wiederverwendung von Daten und Standards ermöglichen
 
 #### Darum ist das wichtig:
@@ -370,6 +387,13 @@ Recherchieren Sie für Ihr Regelungsvorhaben relevante bestehende Standards, Kom
 **Schafft die Regelung die Voraussetzungen für eine Wiederverwendung von Daten und  Standards?**  
 Bitte kreuzen Sie eine der Optionen an und listen Sie zwei bis drei Stichpunkte auf. Verweisen Sie dabei auf die jeweiligen Paragrafen und ggf. auch auf andere anwendbare Regelungen.  
 **Zum Beispiel:** “Datenstandard definiert, siehe § 3a, rechtliche Voraussetzung zum Datenaustausch geschaffen, siehe § 3b”.
+
+- Ja
+- Nein
+- Teilweise
+- Nicht relevant
+
+Erläuterung: _[Freitextfeld]_
 
 ### Prinzip 3: Datenschutz und Informationssicherheit gewährleisten
 
@@ -389,6 +413,13 @@ Datenschutz und Informationssicherheit sind zentrale Voraussetzungen für praxis
 Bitte kreuzen Sie eine der Optionen an und listen Sie zwei bis drei Stichpunkte auf. Verweisen Sie dabei auf die jeweiligen Paragrafen und ggf. auch auf andere anwendbare Regelungen.  
 **Zum Beispiel:** “Bedingungen für die Verwendung von Kontaktdaten, siehe § 1a (2)”.
 
+- Ja
+- Nein
+- Teilweise
+- Nicht relevant
+
+Erläuterung: _[Freitextfeld]_
+
 ### Prinzip 4: Klare Regelungen für eine digitale Ausführung finden
 
 #### Darum ist das wichtig:
@@ -405,6 +436,13 @@ Durch eindeutige und klare Formulierungen können die Regelungen verständlich d
 **Enthält das Vorhaben klare Regelungen für eine digitale Ausführung?**  
 Bitte kreuzen Sie eine der Optionen an und listen Sie zwei bis drei Stichpunkte auf. Verweisen Sie dabei auf die jeweiligen Paragrafen und ggf. auch auf andere anwendbare Regelungen.  
 **Zum Beispiel:** “Hinweis auf Begriffsdefinitionen, siehe § 1a (2); Voraussetzungen, Pauschalen und Freibeträge für Leistungsbezug definiert, siehe § 5”.
+
+- Ja
+- Nein
+- Teilweise
+- Nicht relevant
+
+Erläuterung: _[Freitextfeld]_
 
 ### Prinzip 5: Automatisierung ermöglichen
 
@@ -423,6 +461,13 @@ Digitale Lösungen zu erstellen, ist zunächst aufwändig. Die “Duplikation”
 **Ermöglicht die Regelung die Automatisierung des Vollzugs?**  
 Bitte kreuzen Sie eine der Optionen an und listen Sie zwei bis drei Stichpunkte auf. Verweisen Sie dabei auf die jeweiligen Paragrafen und ggf. auch auf andere anwendbare Regelungen.  
 **Zum Beispiel:** “Verzicht auf persönliches Erscheinen, siehe § 4”.
+
+- Ja 
+- Nein
+- Teilweise
+- Nicht relevant
+
+Erläuterung: _[Freitextfeld]_
 
 ### Das passiert als Nächstes
 
