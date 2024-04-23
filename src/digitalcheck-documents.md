@@ -309,62 +309,57 @@ Inhaltliche Stichpunkte mit Verweis auf den entsprechenden Paragrafen in Ihrem R
 - Ermöglicht das Regelungsvorhaben eine automatisierte Umsetzung?
 
 
-- Wie spiegeln sich die Erkenntnisse, die durch die oben genannten Schritte gewonnen wurden, in der Regelung wider?
-- Schafft die Regelungen die Voraussetzungen für eine digitale Kommunikation?
-- Schafft die Regelung die Voraussetzungen für eine Wiederverwendung von Daten und Standards?
-- Schafft die Regelung die Voraussetzungen für eine Gewährleistung von Datenschutz und Informationssicherheit?
-- Enthält das Vorhaben klare Regelungen für eine digitale Ausführung?
-- Ermöglicht die Regelung die Automatisierung des Vollzugs?
+### Visuelle Darstellung der Umsetzung des Regelungsvorhabens
 
-### Visuelle Darstellung des Vollzugs 	Tipps für visuelle Darstellungen:
 #### Darum ist das wichtig: 
 
-Sie können die Auswirkungen der Regelung auf Betroffene und den Vollzug einfacher verstehen, wenn Sie die Umsetzung der Regelung skizzieren – Zusammenhänge werden sichtbar und Sie können Möglichkeiten der Digitalisierung in den unterschiedlichen Phasen des Vollzugs identifizieren.
+Eine Skizzierung der Umsetzung Ihrer Regelungsidee hilft Ihnen dabei, die Auswirkung der Umsetzung auf Betroffene* besser zu verstehen: Zusammenhänge werden sichtbar und Sie können Möglichkeiten der Digitalisierung in der Umsetzung identifizieren.
+
+*Von der Regelung Betroffene sind jene, die selbst Zielgruppe der Regelung sind oder für die sich Rahmenbedingungen durch die Regelung ändern.
 
 #### Tipps für visuelle Darstellungen:
 
-Beispiele für visuelle Darstellungen sind Flussdiagramme, Nutzerreisen, Entscheidungsbäume, Datenflüsse, Prozessmodellierungen (z. B. nach BPMN oder FIM-Methodik).
-
-Wir empfehlen ein Flussdiagramm; das Vorgehen ist in Schritt 2, Abschnitt ›Visualisieren Sie den Vollzug‹ beschrieben. Bei Fragen wenden Sie sich an den Digitalcheck-Support ([digitalcheck@digitalservice.bund.de](mailto:digitalcheck@digitalservice.bund.de), 0151 4076 7839).
+Beispiele für visuelle Darstellungen sind Nutzerreisen, Entscheidungsbäume oder Datenflüsse. Für die Darstellung von Prozessen gibt es standardisierte Methoden, wie z. B. BPMN (Business Process Modeling Notation) oder den Standard des Föderalen Informationsmanagement (FIM). Um die Umsetzung eines Regelungsvorhabens zu verdeutlichen, empfehlen wir die Arbeit mit einem Flussdiagramm; das Vorgehen ist in Schritt 2, Abschnitt ›Visualisieren Sie den Vollzug‹ beschrieben. Bei Fragen wenden Sie sich an das Digitalcheck Team (([digitalcheck@digitalservice.bund.de](mailto:digitalcheck@digitalservice.bund.de), 0151 4076 7839).
 
 _Hängen Sie visuelle Darstellungen und Skizzen gerne formlos als PDF an._
 
-### Auswirkungen auf Betroffene und Vollzug
+### Auswirkungen auf Betroffene und an der Umsetzung Beteiligte 
 
 #### Darum ist das wichtig:
 
-Die Regelung soll den Bedürfnissen der Betroffenen gerecht werden und die Rahmenbedingungen des Vollzugs berücksichtigen.
+Ihr Regelungsvorhaben soll den Bedürfnissen der Betroffenen gerecht werden und die Rahmenbedingungen der zuständigen Behörden berücksichtigen.
 
 #### Tipps für Ihr Regelungsvorhaben:
 
-Um frühzeitig die Bedürfnisse derer zu verstehen, für die das Gesetz geschrieben wird, holen Sie sich Informationen ein, z. B. über Gespräche mit den Betroffenen und Vollzugsakteuren selbst – häufig genügen bereits fünf bis sechs qualitative Interviews.  
+Um frühzeitig die Bedürfnisse derer zu verstehen, für die das Gesetz geschrieben wird, holen Sie sich Informationen ein, z. B. über Gespräche mit den Betroffenen und Vollzugsakteurinnen und -akteuren selbst – häufig genügen bereits fünf bis sechs qualitative Interviews. 
 Expertinnen und Experten für Digitalisierung, Datenschutz und Gestaltung von Dienstleistungen können Ihre Fragen beantworten und Sie auf wichtige, Ihnen bisher unbekannte Aspekte aufmerksam machen.
 
 ##### Betroffene können sein:
 - Bürgerinnen und Bürger
 - Unternehmen, Vereine, weitere Organisationen
 - Kommunen, Verwaltung und Behörden 
-##### Vollzugsakteure können sein:
+##### Beteiligte an der Umsetzung können sein:
 - Unternehmen, Vereine, weitere Organisationen
 - Kommunen, Verwaltungen und Behörden, deren IT- oder Rechtsabteilungen
-- IT-Dienstleister
-##### Expertinnen und Experten in Ihrem Haus:
+- IT-Dienstleistende
 - Datenschutzbeauftragte
 - IT-Fachkräfte
 - Prozessmodellierende
+
 ##### Weitere Expertinnen und Experten können sein:
-- Vollzugsakteure, deren IT- oder Rechtsabteilungen
+- Umsetzungsakteurinnen und -akteure sowie deren IT- oder Rechtsabteilungen
 - IT-Dienstleister
 - Wissenschaft, zivilgesellschaftliche Organisationen, Think-Tanks, Nichtregierungsorganisationen, Verbände
 
 #### Fragen
 
-**Welche Schritte haben Sie unternommen, um zu prüfen, ob die Auswirkungen der Regelung den Bedürfnissen der Betroffenen und des Vollzugs entspricht?** Bitte listen Sie stichpunktartig auf, ob bzw. welche Schritte Sie unternommen haben.  
-**Zum Beispiel:** frühzeitige Befragung von betroffenen Bürgerinnen und Bürgern, Gespräche mit Vollzugsakteuren oder Expertinnen und Experten, formelle Beteiligungsverfahren.
+**Welche Schritte haben Sie unternommen, um zu prüfen, ob die Ergebnisse des Regelungsvorhabens den Bedürfnissen der Betroffenen und des Vollzugs entsprechen?**  Bitte listen Sie stichpunktartig auf, ob bzw. welche Schritte Sie unternommen haben. 
+  
+**Zum Beispiel:** rühzeitige Befragung von betroffenen Bürgerinnen und Bürgern, Gespräche mit Vollzugsakteurinnen und -akteuren oder Expertinnen und Experten, formelle Beteiligungsverfahren.
 
 _[Freitextfeld]_
 
-**Wie spiegeln sich die Erkenntnisse, die durch die oben genannten Schritte gewonnen wurden, in der Regelung wider?** Bitte listen Sie stichpunktartig auf, welche Erkenntnisse eingearbeitet wurden und geben Sie Hinweise auf Paragrafen, die zum Beispiel den Vollzug regeln.
+**Wie spiegeln sich die Erkenntnisse, die durch die oben genannten Schritte gewonnen wurden, in ihrem Regelungsvorhaben wider?** Bitte listen Sie stichpunktartig auf, welche Erkenntnisse eingearbeitet wurden und geben Sie Hinweise auf Paragrafen, die besonders umsetzungsrelevant sind.
 
 _[Freitextfeld]_
 
@@ -372,20 +367,21 @@ _[Freitextfeld]_
 
 #### Darum ist das wichtig:
 
-Bürgerinnen und Bürger, Mitarbeitende in Unternehmen, weiteren Organisationen und der Verwaltung sind meist an digitale Kommunikation gewöhnt. In der Verwaltung und den Behörden erlaubt eine durchgehend digitale Dokumentation, Bearbeitung und ggf. Prüfung eine effizientere Bearbeitung.  
+Bürgerinnen und Bürger, Mitarbeitende in Unternehmen, weiteren Organisationen und der Verwaltung sind meist an digitale Kommunikation gewöhnt. In der Verwaltung und den Behörden erlaubt eine durchgehend digitale Dokumentation, Bearbeitung und ggf. Prüfung eine effizientere Bearbeitung. 
 Digitale Kommunikation sollte immer bedarfsorientiert und inklusiv sein – in bestimmten Fällen kann z. B. ergänzend auch die Schriftform sinnvoll sein, sofern eine digitale Weiterverarbeitung sichergestellt ist.
 
 #### Tipps für Ihr Regelungsvorhaben:
 
-- Wählen Sie Formulierungen, die den Einsatz von unterschiedlichen und standardbasierten Medien, Technologien und Verfahren ermöglichen.
+- Wählen Sie Formulierungen, die den Einsatz von unterschiedlichen Medien, Technologien und Verfahren ermöglichen.
+- Sollten Sie technologische Lösungen festschreiben, ermöglichen Sie den Einsatz von offenen Technologien, so sorgen Sie für Transparenz und Wiederverwendbarkeit.
 - Ersetzen oder ergänzen Sie Schriftformerfordernisse und analoge Nachweispflichten. Prüfen Sie etwa, ob die Textform ausreichend ist und ermöglichen Sie die digitale Bearbeitung.
-- Vermeiden Sie Medienbrüche. Diese können z. B. durch visuelle Darstellung des Vollzugs, wie Flussdiagramme, erkennbar werden. (s. Methode: ›Visualisieren Sie den Vollzug‹)
+- Vermeiden Sie Medienbrüche. Diese können z. B. durch visuelle Darstellung des Vollzugs, wie Flussdiagramme, erkennbar werden (s. Methode: ›Visualisieren Sie den Vollzug‹).
 - Erfüllen Sie Anforderungen der Barrierefreiheit und beachten Sie die Bedarfe unterschiedlicher Personengruppen.
 
 #### Frage
 
-**Schafft die Regelungen die Voraussetzungen für eine digitale Kommunikation?**  
-Bitte kreuzen Sie eine der Optionen an und listen Sie zwei bis drei Stichpunkte auf. Verweisen Sie dabei auf die jeweiligen Paragrafen und ggf. auch auf andere anwendbare Regelungen.  
+**Schafft Ihr Regelungsvorhaben die Voraussetzungen für eine digitale Kommunikation?**  
+Bitte kreuzen Sie eine der Optionen an und listen Sie zwei bis drei Stichpunkte auf. Verweisen Sie dabei auf die jeweiligen Paragrafen und ggf. auch auf andere anwendbare Regelungen.   
 **Zum Beispiel:** “Online-Beratung wird ermöglicht, siehe § 1a (2)”.
 
 - Ja
@@ -399,7 +395,7 @@ Erläuterung: _[Freitextfeld]_
 
 #### Darum ist das wichtig:
 
-Durch die Digitalisierung sind Menschen inzwischen gewohnt, dass die Komplexität eines Vorgangs hinter einer einfach bedienbaren und verständlichen Oberfläche verschwindet. Dies kann unter anderem durch die Wiederverwendung von Daten und bestehenden Standards oder sogar einzelner Komponenten ermöglicht und unterstützt werden. 
+Durch die Digitalisierung sind Menschen inzwischen gewohnt, dass die Komplexität eines Vorgangs hinter einer einfach bedienbaren und verständlichen Oberfläche verschwindet. Dies kann unter anderem durch die Wiederverwendung von Daten, bestehender Open-Source-Software, bestehenden Standards oder sogar einzelner Design- oder Software-Komponenten ermöglicht und unterstützt werden.
 
 #### Tipps für Ihr Regelungsvorhaben:
 
@@ -407,8 +403,8 @@ Recherchieren Sie für Ihr Regelungsvorhaben relevante bestehende Standards, Kom
 
 #### Frage
 
-**Schafft die Regelung die Voraussetzungen für eine Wiederverwendung von Daten und  Standards?**  
-Bitte kreuzen Sie eine der Optionen an und listen Sie zwei bis drei Stichpunkte auf. Verweisen Sie dabei auf die jeweiligen Paragrafen und ggf. auch auf andere anwendbare Regelungen.  
+**Schafft Ihr Regelungsvorhaben die Voraussetzungen für eine Wiederverwendung von Daten und  Standards?**  
+Bitte kreuzen Sie eine der Optionen an und listen Sie zwei bis drei Stichpunkte auf. Verweisen Sie dabei auf die jeweiligen Paragrafen und ggf. auch auf andere anwendbare Regelungen. 
 **Zum Beispiel:** “Datenstandard definiert, siehe § 3a, rechtliche Voraussetzung zum Datenaustausch geschaffen, siehe § 3b”.
 
 - Ja
@@ -422,18 +418,18 @@ Erläuterung: _[Freitextfeld]_
 
 #### Darum ist das wichtig:
 
-Datenschutz und Informationssicherheit sind zentrale Voraussetzungen für praxistaugliche Digitalisierung – frühzeitig mitgedacht, können die Bedürfnisse von Betroffenen und Daten- und Informationssicherheit vereinbart werden. Die Regelung soll eine datenschutzkonforme Umsetzung ermöglichen: Vor der Erhebung von Daten muss definiert werden, welche Daten zu welchem Zweck benötigt und wie sie geschützt werden.
+Datenschutz und Informationssicherheit sind zentrale Voraussetzungen für praxistaugliche Digitalisierung – frühzeitig mitgedacht können Bedürfnisse von Betroffenen auf einfache Weise mit Daten- und Informationssicherheit vereinbart werden. Das Regelungsvorhaben soll eine datenschutzkonforme Umsetzung ermöglichen: Vor der Erhebung von Daten muss definiert werden, welche Daten zu welchem Zweck benötigt und wie sie geschützt werden.
 
 #### Tipps für Ihr Regelungsvorhaben:
 
-- Beteiligen Sie frühzeitig Expertinnen und Experten für Datenschutz und Informationssicherheit, um datenschutzkonforme Regelungen zu schreiben.
-- Schaffen Sie die Rechtsgrundlage, um alle benötigten Daten zu erfassen und zu verarbeiten. Beachten Sie dabei die Datensparsamkeit. 
-- Berücksichtigen Sie die finanziellen und personellen Ressourcen, die für die Erfüllung der Vorgaben der Informationssicherheit nötig sind.
+- Beteiligen Sie frühzeitig Expertinnen und Experten für Datenschutz und Informationssicherheit, um datenschutzkonforme Regelungen zu schreiben. Anhaltspunkte dafür geben auch geltende Richtlinien und Ausführungsbestimmungen z.B. vom BSI.
+- Schaffen Sie die Rechtsgrundlage, um alle benötigten Daten zu erfassen und zu verarbeiten. 
+- Berücksichtigen Sie die finanziellen und personellen Ressourcen, die für die Umsetzung der Vorgaben der Informationssicherheit nötig sind.
 
 #### Frage 
 
-**Schafft die Regelung die Voraussetzungen für eine Gewährleistung von Datenschutz und  Informationssicherheit?**  
-Bitte kreuzen Sie eine der Optionen an und listen Sie zwei bis drei Stichpunkte auf. Verweisen Sie dabei auf die jeweiligen Paragrafen und ggf. auch auf andere anwendbare Regelungen.  
+**Schafft ihr Regelungsvorhaben die Voraussetzungen für eine Gewährleistung von Datenschutz und  Informationssicherheit?**  
+Bitte kreuzen Sie eine der Optionen an und listen Sie zwei bis drei Stichpunkte auf. Verweisen Sie dabei auf die jeweiligen Paragrafen und ggf. auch auf andere anwendbare Regelungen.   
 **Zum Beispiel:** “Bedingungen für die Verwendung von Kontaktdaten, siehe § 1a (2)”.
 
 - Ja
@@ -447,17 +443,17 @@ Erläuterung: _[Freitextfeld]_
 
 #### Darum ist das wichtig:
 
-Durch eindeutige und klare Formulierungen können die Regelungen verständlich dargestellt und die digitale Umsetzung erleichtert werden.
+Durch eindeutige und klare Formulierungen können Regelungen verständlich dargestellt und die digitale Umsetzung erleichtert werden.
 
 #### Tipps für Ihr Regelungsvorhaben:
-- Formulieren Sie die Regelung so, dass die Umsetzung in Aufgaben und chronologische Schritte übersetzt werden kann.
-- Formulieren Sie klare Entscheidungsstrukturen. Nutzen Sie dafür eindeutige Kriterien und eine kohärente und logische Systematik. Testen Sie die Verständlichkeit mit Vollzugsakteuren.
+- Formulieren Sie die Texte Ihres Regelungsvorhaben so, dass es in der Umsetzung in Aufgaben und chronologische Schritte übersetzt werden kann.
+- Formulieren Sie klare Entscheidungsstrukturen. Nutzen Sie dafür eindeutige Kriterien und eine kohärente und logische Systematik. Testen Sie die Verständlichkeit mit den Personen, die an der Umsetzung beteiligt sind.
 - Versuchen Sie, Rechtsbegriffe zu harmonisieren. Verwenden Sie definierte Rechtsbegriffe aus Ihrem Rechtsbereich.
 
 #### Frage
 
 **Enthält das Vorhaben klare Regelungen für eine digitale Ausführung?**  
-Bitte kreuzen Sie eine der Optionen an und listen Sie zwei bis drei Stichpunkte auf. Verweisen Sie dabei auf die jeweiligen Paragrafen und ggf. auch auf andere anwendbare Regelungen.  
+Bitte kreuzen Sie eine der Optionen an und listen Sie zwei bis drei Stichpunkte auf. Verweisen Sie dabei auf die jeweiligen Paragrafen und ggf. auch auf andere anwendbare Regelungen.   
 **Zum Beispiel:** “Hinweis auf Begriffsdefinitionen, siehe § 1a (2); Voraussetzungen, Pauschalen und Freibeträge für Leistungsbezug definiert, siehe § 5”.
 
 - Ja
@@ -471,18 +467,18 @@ Erläuterung: _[Freitextfeld]_
 
 #### Darum ist das wichtig:
 
-Digitale Lösungen zu erstellen, ist zunächst aufwändig. Die “Duplikation” oder Skalierung kostet jedoch (fast) nichts. Somit ist es personell und wirtschaftlich sinnvoll, sich wiederholende Schritte, Prozesse oder Vorgehen zu automatisieren. Dadurch entstehen zeitliche und finanzielle Freiräume für die Fälle, die eine individuelle Beratung benötigen.
+Digitale Lösungen zu erstellen, ist zunächst aufwändig. Die “Duplikation” oder Skalierung kostet jedoch (fast) nichts. Daher ist es personell und wirtschaftlich sinnvoll, sich wiederholende Schritte, Prozesse oder Vorgehen zu automatisieren. Dadurch entstehen zeitliche und finanzielle Freiräume für Fälle, die eine gesonderte Auseinandersetzung benötigen.
 
 #### Tipps für Ihr Regelungsvorhaben:
 
 - Schaffen Sie die rechtlichen Möglichkeiten für automatisierte und/oder antragslose Verfahren. Prüfen Sie z. B. die Möglichkeit von Pauschalen.
-- Formulieren Sie klare Entscheidungsstrukturen. Nutzen Sie dafür eindeutige Kriterien und eine kohärente und logische Systematik. Ziehen Sie IT-Expertise mit ein.
+- Formulieren Sie klare Entscheidungsstrukturen. Nutzen Sie dafür eindeutige Kriterien und eine kohärente und logische Systematik. Beziehen Sie IT-Expertise mit ein. 
 - Versuchen Sie, Rechtsbegriffe zu harmonisieren. Verwenden Sie definierte Rechtsbegriffe aus Ihrem Rechtsbereich.
 
 #### Frage 
 
-**Ermöglicht die Regelung die Automatisierung des Vollzugs?**  
-Bitte kreuzen Sie eine der Optionen an und listen Sie zwei bis drei Stichpunkte auf. Verweisen Sie dabei auf die jeweiligen Paragrafen und ggf. auch auf andere anwendbare Regelungen.  
+**Ermöglicht das Regelungsvorhaben die Automatisierung des Vollzugs?**  
+Bitte kreuzen Sie eine der Optionen an und listen Sie zwei bis drei Stichpunkte auf. Verweisen Sie dabei auf die jeweiligen Paragrafen und ggf. auch auf andere anwendbare Regelungen. 
 **Zum Beispiel:** “Verzicht auf persönliches Erscheinen, siehe § 4”.
 
 - Ja 
