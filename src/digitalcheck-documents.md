@@ -77,22 +77,24 @@ Der NKR prüft Ihr Regelungsvorhaben auf Möglichkeiten der digitalen Umsetzung.
 **Titel der Regelung**: _[Freitextfeld]_
 
 ### Zusammengefasst
-Führen Sie die Vorprüfung **am Beginn Ihrer Arbeit an einem Regelungsvorhaben** durch, das heißt: vor der Formulierung eines Regelungstextes.
+Führen Sie die Vorprüfung **zu Beginn Ihrer Arbeit an einem Regelungsvorhaben** durch, das heißt: vor der Formulierung eines Regelungstextes.
 
-Wenn Sie sich nicht sicher sind, ob Ihre Regelung einen Digitalbezug aufweist oder nicht, melden Sie sich gerne beim Digitalcheck-Support ([digitalcheck@digitalservice.bund.de](mailto:digitalcheck@digitalservice.bund.de), 01514076 7839) oder bei Ihrer Ansprechperson im Sekretariat des NKR.
+Wenn Sie gleichzeitig viele Änderungen an unterschiedlichen Regelungen durchführen, bündeln Sie diese bitte als inhaltlich sinnvolle Vorhaben, für welche Sie jeweils einen Digitalcheck durchführen.
+
+Wenn Sie sich nicht sicher sind, ob Ihre Regelungsvorhaben einen Digitalbezug aufweist oder nicht, melden Sie sich gerne beim Digitalcheck-Support ([digitalcheck@digitalservice.bund.de](mailto:digitalcheck@digitalservice.bund.de), 0151 4076 7839) oder bei Ihrer Ansprechperson im Sekretariat des NKR.
 
 ### Vorprüfung
 
-**Der Vollzug der Regelung wird voraussichtlich:**
+**Die Umsetzung bzw. der Vollzug des Regelungsvorhabens wird voraussichtlich…**
 - eine Anpassung oder Neuentwicklung einer IT-Lösung zur Folge haben.
-- Verpflichtungen für Beteiligte* zur Folge haben.
-- einen Datenaustausch oder eine Wiederverwendung von Daten zur Folge haben, oder könnte durch diese vereinfacht werden.
+- Verpflichtungen für Beteiligte* zur Folge haben
+- einen Datenaustausch zur Folge haben, eine Wiederverwendung von Daten zur Folge haben oder könnte durch diese vereinfacht werden.
 - Interaktion und/oder Kommunikation zwischen Beteiligten* zur Folge haben.
-- durch (Teil-)Automatisierung und/oder digitaler Dokumentation verbessert bzw. erleichtert.   
-**Sollte eine oder mehrere dieser Aussagen zutreffen**, führen Sie einen erweiterten Digitalcheck durch. Bitte verwenden Sie dafür die unter Schritt 2 aufgeführten Methoden sowie die begleitende Dokumentation.
+- durch (Teil-)Automatisierung und/oder digitale Dokumentation verbessert bzw. erleichtert.   
+**Sollte eine oder mehrere dieser Aussagen zutreffen**, führen Sie bitte einen erweiterten Digitalcheck durch. Bitte verwenden Sie dafür die unter Schritt 2 aufgeführten Methoden sowie die begleitende Dokumentation. 
 
 
-- Der Vollzug der Regelung wird voraussichtlich durch digitale Möglichkeiten nicht verbessert oder erleichtert.   
+- Die Umsetzung oder der Vollzug des Regelungsvorhabens wird voraussichtlich durch digitale Möglichkeiten nicht verbessert oder erleichtert.   
 **Sollte nur diese Aussage zutreffen**, bearbeiten Sie Schritt 2 nicht. Der Digitalcheck ist beendet.  
 Bitte erläutern Sie hier das Ergebnis:
 
@@ -101,8 +103,8 @@ _[Freitextfeld]_
 _*Beteiligte sind in diesem Zusammenhang Bürgerinnen und Bürger, Einwohnende, die Verwaltung, Unternehmen und weitere Organisationen wie z.B. Vereine._
 
 ### Das passiert als Nächstes
-**Übersenden Sie die Vorprüfung an das Sekretariat des NKR.** Die für Ihr Haus zuständige Ansprechperson finden Sie hier: www.
-[normenkontrollrat.bund.de/Webs/NKR/DE/der-nkr/sekretariat/sekretariat_node.html](https://normenkontrollrat.bund.de/Webs/NKR/DE/der-nkr/sekretariat/sekretariat_node.html)  
+**Übersenden Sie die Vorprüfung an das Sekretariat des NKR.** Die für Ihr Haus zuständige Ansprechperson finden Sie hier:
+[https://normenkontrollrat.bund.de/Webs/NKR/DE/der-nkr/sekretariat/sekretariat_node.html](https://normenkontrollrat.bund.de/Webs/NKR/DE/der-nkr/sekretariat/sekretariat_node.html)  
 → Hat Ihre Vorprüfung ergeben, dass Ihr Regelungsvorhaben einen **Digitalbezug** aufweist, fahren Sie fort mit Schritt 2.  
 → Hat Ihre Vorprüfung ergeben, dass Ihr Regelungsvorhaben keinen Digitalbezug aufweist, ist Ihr Digitalcheck beendet.
 
