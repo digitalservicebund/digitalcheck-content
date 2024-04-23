@@ -47,8 +47,8 @@ Der Digitalcheck besteht aus zwei Schritten:
 Führen Sie die Vorprüfung durch, **sobald Sie die Arbeit an Ihrem Regelungsvorhaben beginnen**, spätestens aber bevor Sie konkrete Rechtsnormen formulieren. 
 Nach der Vorprüfung wissen Sie, ob Ihre Regelungsidee einen Digitalbezug hat oder nicht. 
 
-
 → Hat Ihre Vorprüfung ergeben, dass Ihr Regelungsvorhaben einen **Digitalbezug** aufweist, fahren Sie fort mit Schritt 2.
+
 → Hat Ihre Vorprüfung ergeben, dass Ihr Regelungsvorhaben **keinen Digitalbezug** aufweist, ist Ihr Digitalcheck beendet.
 
 **Schicken Sie in beiden Fällen** die ausgefüllte Vorprüfung schon zu diesem Zeitpunkt an das NKR-Sekretariat. Die für Ihr Haus zuständige Ansprechperson finden Sie hier: [normenkontrollrat.bund.de/Webs/NKR/DE/der-nkr/sekretariat/sekretariat_node.html](https://normenkontrollrat.bund.de/Webs/NKR/DE/der-nkr/sekretariat/sekretariat_node.html). Das NKR-Sekretariat steht Ihnen auch in frühen Phasen der Arbeit am Regelungsvorhaben (also weit vor der Ressortabstimmung) im Rahmen seines Beratungsmandats und seiner Kapazitäten zur Verfügung.
@@ -114,9 +114,9 @@ _*Beteiligte sind in diesem Zusammenhang Bürgerinnen und Bürger, Einwohnende, 
 Im zweiten Schritt geht es darum, dass Sie ihr Regelungsvorhaben so digitaltauglich wie möglich formulieren. Damit haben Sie in dieser Phase den größten Einfluss auf die Digitaltauglichkeit. Nutzen Sie daher aktiv den Gestaltungsspielraum, den Sie ganz am Anfang der Arbeit an einem Vorhaben haben.
 
 - Arbeiten Sie mit der begleitenden Dokumentation. Fangen Sie damit früh an. Diese schicken Sie zur Prüfung der Digitaltauglichkeit an das NKR-Sekretariat. Dieser Schritt ist verbindlich.
-• Orientieren Sie sich an den fünf Prinzipien für digitaltaugliche Gesetze.
-• Visualisieren Sie die Umsetzung Ihrer Regelungsidee (möglichst vor der ersten Verschriftlichung).
-• Beziehen Sie andere Blickwinkel ein.
+- Orientieren Sie sich an den fünf Prinzipien für digitaltaugliche Gesetze.
+- Visualisieren Sie die Umsetzung Ihrer Regelungsidee (möglichst vor der ersten Verschriftlichung).
+- Beziehen Sie andere Blickwinkel ein.
 
 ### Arbeiten Sie mit der begleitenden Dokumentation
 
@@ -213,7 +213,7 @@ Um frühzeitig die Bedürfnisse derer zu erfahren, für die ihr Regelungsvorhabe
 Zielgruppe des Regelungsaspekts sind, oder für die sich Rahmenbedingungen durch das Regelungsvorhaben ändern. 
 
 Beispiele hierfür:
-- ürgerinnen und Bürger, die eine Leistung beantragen oder Unterlagen einreichen.
+- Bürgerinnen und Bürger, die eine Leistung beantragen oder Unterlagen einreichen.
 - Behörden, die eine (digitale) Leistung selbst anwenden.
 - Unternehmen, die Informationen bereitstellen oder Dokumentationen anfertigen.
 - Weitere Organisationen, die Daten bereitstellen.
