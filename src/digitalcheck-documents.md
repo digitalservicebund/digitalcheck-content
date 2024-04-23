@@ -37,39 +37,40 @@ Version 1.3 - 15.05.2024 | **Bitte stellen Sie sicher**, immer die aktuelle Vers
 
 ### Zusammengefasst
 Der Digitalcheck besteht aus zwei Schritten:
-- Mit der **Vorprüfung** prüfen Sie, ob Ihr Regelungsvorhaben Digitalbezug hat.
-- Bei Digitalbezug erarbeiten Sie eine digitaltaugliche Regelung mithilfe der **begleitenden Dokumentation** sowie unterstützender Methoden.
+- Mit der Vorprüfung prüfen Sie, ob Ihr Regelungsgegenstand / Regelungsvorhaben Digitalbezug hat.
+- Bei vorliegendem Digitalbezug erarbeiten Sie ein digitaltaugliches Regelungsvorhaben mithilfe der begleitenden Dokumentation sowie unterstützender Methoden.
 
 ![Die zwei Schritte des Digitalcheck nacheinander auf einer Zeitachse abgebildet](./img/Ablaufdiagramm.png "Ablaufdiagramm des Digitalchecks")
 
 ### Schritt 1: Die Vorprüfung
 
-Führen Sie die Vorprüfung durch, **sobald Sie die Arbeit an Ihrem Regelungsvorhaben beginnen**, spätestens aber bevor Sie konkrete Rechtsnormen formulieren.  
-Nach der Vorprüfung wissen Sie, ob Ihr Vorhaben einen Digitalbezug hat oder nicht.
+Führen Sie die Vorprüfung durch, **sobald Sie die Arbeit an Ihrem Regelungsvorhaben beginnen**, spätestens aber bevor Sie konkrete Rechtsnormen formulieren. 
+Nach der Vorprüfung wissen Sie, ob Ihre Regelungsidee einen Digitalbezug hat oder nicht. 
 
-→ Hat Ihre Vorprüfung ergeben, dass Ihr Regelungsvorhaben einen **Digitalbezug** aufweist, fahren Sie fort mit Schritt 2.  
+
+→ Hat Ihre Vorprüfung ergeben, dass Ihr Regelungsvorhaben einen **Digitalbezug** aufweist, fahren Sie fort mit Schritt 2.
 → Hat Ihre Vorprüfung ergeben, dass Ihr Regelungsvorhaben **keinen Digitalbezug** aufweist, ist Ihr Digitalcheck beendet.
 
-**Schicken Sie in beiden Fällen** die ausgefüllte Vorprüfung schon zu diesem Zeitpunkt an das NKRSekretariat. Die für Ihr Haus zuständige Ansprechperson finden Sie hier: [normenkontrollrat.bund.de/Webs/NKR/DE/der-nkr/sekretariat/sekretariat_node.html](https://normenkontrollrat.bund.de/Webs/NKR/DE/der-nkr/sekretariat/sekretariat_node.html). Das NKR-Sekretariat steht Ihnen auch in frühen Phasen (also weit vor der Ressortabstimmung) der Arbeit am Regelungsvorhaben im Rahmen seines Beratungsmandats und seiner Kapazitäten zur Verfügung.
+**Schicken Sie in beiden Fällen** die ausgefüllte Vorprüfung schon zu diesem Zeitpunkt an das NKR-Sekretariat. Die für Ihr Haus zuständige Ansprechperson finden Sie hier: [normenkontrollrat.bund.de/Webs/NKR/DE/der-nkr/sekretariat/sekretariat_node.html](https://normenkontrollrat.bund.de/Webs/NKR/DE/der-nkr/sekretariat/sekretariat_node.html). Das NKR-Sekretariat steht Ihnen auch in frühen Phasen der Arbeit am Regelungsvorhaben (also weit vor der Ressortabstimmung) im Rahmen seines Beratungsmandats und seiner Kapazitäten zur Verfügung.
 
-### Schritt 2: Erarbeiten einer digitaltauglichen Regelung
+### Schritt 2: Erarbeitung eines digitaltauglichen Regelungsvorhabens
 
-Für die Erarbeitung Ihrer Regelungen stehen Ihnen begleitend zu Ihrem Recherche- und Schreibprozess unterschiedliche Methoden zur Verfügung, um Aspekte der Digitaltauglichkeit zu berücksichtigen:
-- Visualisierungen des Vollzugs,
+Für die Erarbeitung Ihres Regelungsvorhabens stehen Ihnen begleitend zu Ihrem Recherche- und Schreibprozess unterschiedliche Methoden zur Verfügung, um Aspekte der Digitaltauglichkeit zu berücksichtigen: 
+- Visualisierungen der Umsetzung bzw. des Vollzugs ihrer Regelungsidee,
 - das Einbeziehen anderer Blickwinkel,
-- die fünf Prinzipien für digitaltaugliche Gesetze,
+- die fünf Prinzipien für digitaltaugliche Gesetzgebung,
 - und die begleitende Dokumentation (**verbindlich**).
 
 Wenden Sie die Methoden und Prinzipien so früh wie möglich an, um den Gestaltungsspielraum zu nutzen, den Sie zu Beginn eines Regelungsverfahrens haben. Die Methoden und Prinzipien dienen Ihrer eigenen Qualitätssicherung.
 
-Bei Fragen steht Ihnen Ihre Ansprechperson im NKR-Sekretariat oder der Digitalcheck-Support
+Bei Fragen steht Ihnen Ihre Ansprechperson im NKR-Sekretariat oder der Digitalcheck-Team
 ([digitalcheck@digitalservice.bund.de](mailto:digitalcheck@digitalservice.bund.de), 0151 4076 7839) zur Verfügung.
 
-**Schicken Sie die begleitende Dokumentation an Ihre Ansprechperson im NKR-Sekretariat**, spätestens mit der Einleitung der Ressortabstimmung. Fügen Sie die begleitende Dokumentation des Digitalcheck gerne auch der Ressortabstimmung bei, um Entscheidungen Ihren Kolleginnen und Kollegen nachvollziehbar zu machen.
+**Schicken Sie die begleitende Dokumentation an Ihre Ansprechperson im NKR-Sekretariat**, spätestens mit der Einleitung der Ressortabstimmung. Fügen Sie die begleitende Dokumentation des Digitalcheck gerne auch der Ressortabstimmung bei, um Entscheidungen bezüglich der Digitaltauglichkeit Ihren Kolleginnen und Kollegen nachvollziehbar zu machen.
 
 **Folgendes prüft der NKR:**
 
-Der NKR prüft Regelungen auf Möglichkeiten der digitalen Umsetzung auf Basis des von Ihnen durchgeführten Digitalcheck. Das wesentliche Prüfkriterium ist die methodische und inhaltliche Nachvollziehbarkeit. Sein Prüfergebnis veröffentlicht der NKR gegebenenfalls in seinen Stellungnahmen. Bei Fragen oder Anregungen wird Ihre Ansprechperson im NKR-Sekretariat auf Sie zukommen.
+Der NKR prüft Ihr Regelungsvorhaben auf Möglichkeiten der digitalen Umsetzung. Die Grundlage für die Prüfung ist die ausgefüllte begleitende Dokumentation, das wesentliche Prüfkriterium ist die methodische und inhaltliche Nachvollziehbarkeit. Sein Prüfergebnis veröffentlicht der NKR gegebenenfalls in seinen Stellungnahmen. Bei Fragen oder Anregungen wird Ihre Ansprechperson im NKR-Sekretariat auf Sie zukommen.
 
 ## Schritt 1: Vorprüfung
 
