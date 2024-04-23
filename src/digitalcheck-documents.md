@@ -2,21 +2,22 @@
 ## Schreiben von digitaltauglichen Regelungsvorhaben
 
 
-### Was sind digitaltaugliche Regelungen?
+### Was sind digitaltaugliche Regelungsvorhaben?
 
-Digitaltaugliche Regelungen ermöglichen den einfachen und wirkungsorientierten Vollzug, indem sie digitale Möglichkeiten zum Nutzen aller Beteiligten ausschöpfen. Beteiligte sind in diesem Zusammenhang Bürgerinnen und Bürger, Einwohnende, die Verwaltung, Unternehmen und weitere Organisationen wie z. B. Vereine.
+Digitaltaugliche Regelungen ermöglichen eine einfache und wirkungsorientierte Umsetzung oder Vollzug der Regelungsgegenstände, indem sie digitale Möglichkeiten zum Nutzen aller Beteiligten ausschöpfen. Beteiligte sind in diesem Zusammenhang Bürgerinnen und Bürger, Einwohnende, die Verwaltung, Unternehmen und weitere Organisationen wie z. B. Vereine.
 
-Digitaltaugliche Regelungen schaffen die Voraussetzungen für eine digitale Umsetzung neuer und angepasster Regelungen. Diese sind ein grundlegendes Element für eine erfolgreiche Digitalisierung.
+Digitaltaugliche Regelungen sind somit ein grundlegendes Element für eine erfolgreiche Digitalisierung in allen Lebensbereichen.
 
-Der Nationale Normenkontrollrat (NKR) prüft gemäß seines Auftrags die Nachvollziehbarkeit der Prüfung der Digitaltauglichkeit Ihres Regelungsentwurfes und veröffentlicht das Prüfergebnis im Rahmen seiner Stellungnahme.
+Der Nationale Normenkontrollrat (NKR) prüft gemäß seines Auftrags, ob die Digitaltauglichkeit Ihres Regelungsentwurfes nachvollziehbar ist und veröffentlicht das Ergebnis im Rahmen seiner Stellungnahme.
 
-Der Digitalcheck gilt für alle Regelungsvorhaben (Gesetze, Verordnungen und Verwaltungsvorschriften).
+Der Digitalcheck gilt für alle Regelungsvorhaben (Gesetze, Verordnungen und Verwaltungsvorschriften), sowohl für neue Vorhaben als auch für Änderungen an bestehenden Regelungen.
+
 
 ### Der Digitalcheck wird stetig verbessert
 
-Der Digitalcheck wird iterativ erarbeitet und kontinuierlich verbessert – auch auf Grundlage Ihrer Rückmeldungen. Wenn Sie also Verbesserungsvorschläge oder Ideen haben, melden Sie sich gern per E-Mail beim Digitalcheck-Support: [digitalcheck@digitalservice.bund.de](mailto:digitalcheck@digitalservice.bund.de)
+Der Digitalcheck wird iterativ erarbeitet und kontinuierlich verbessert – auch auf Grundlage Ihrer Rückmeldungen. Wenn Sie also Verbesserungsvorschläge oder Ideen haben, melden Sie sich gern per E-Mail beim Digitalcheck Team: [digitalcheck@digitalservice.bund.de](mailto:digitalcheck@digitalservice.bund.de)
 
-**Bitte achten Sie darauf, die aktuelle Version zu nutzen.** Den Link zum Download finden Sie in der Fußzeile.
+**Bitte achten Sie darauf, die aktuelle Version zu nutzen.** Sie finden diese unter https://digitalcheck.bund.de
 
 ### Das finden Sie in der Version 1.2  des Digitalcheck
 
@@ -29,8 +30,8 @@ Der Digitalcheck wird iterativ erarbeitet und kontinuierlich verbessert – auch
   - Die begleitende Dokumentation der Digitaltauglichkeit (**verbindlich**)
 
 **Benötigen Sie Hilfe?** Sie erreichen uns unter [digitalcheck@digitalservice.bund.de](mailto:digitalcheck@digitalservice.bund.de) oder 0151 4076 7839. Wir helfen Ihnen weiter.
-Version 1.2 - 27.07.2023 | **Bitte stellen Sie sicher**, immer die aktuelle Version der Dokumente zu nutzen. Diese finden Sie hier:
-[https://www.onlinezugangsgesetz.de/Webs/OZG/DE/grundlagen/digitaltaugliche-gesetzgebung/digitalcheck-gesetze-tauglich-gestalten/entwicklung-digitalcheck/entwicklung-digitalcheck-node.html](https://www.onlinezugangsgesetz.de/Webs/OZG/DE/grundlagen/digitaltaugliche-gesetzgebung/digitalcheck-gesetze-tauglich-gestalten/entwicklung-digitalcheck/entwicklung-digitalcheck-node.html)
+Version 1.3 - 15.05.2024 | **Bitte stellen Sie sicher**, immer die aktuelle Version der Dokumente zu nutzen. Diese finden Sie hier:
+[https://digitalcheck.bund.de](https://digitalcheck.bund.de)
 
 ## Anleitung zum Digitalcheck
 
