@@ -1,5 +1,6 @@
 # Der Digitalcheck
-## Digitaltaugliche Regelungen schreiben
+## Schreiben von digitaltauglichen Regelungsvorhaben
+
 
 ### Was sind digitaltaugliche Regelungen?
 
