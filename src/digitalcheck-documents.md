@@ -15,7 +15,7 @@ Der Digitalcheck gilt für alle Regelungsvorhaben (Gesetze, Verordnungen und Ver
 
 ### Der Digitalcheck wird stetig verbessert
 
-Der Digitalcheck wird iterativ erarbeitet und kontinuierlich verbessert – auch auf Grundlage Ihrer Rückmeldungen. Wenn Sie also Verbesserungsvorschläge oder Ideen haben, melden Sie sich gern per E-Mail beim Digitalcheck Team: [digitalcheck@digitalservice.bund.de](mailto:digitalcheck@digitalservice.bund.de)
+Der Digitalcheck wird iterativ erarbeitet und kontinuierlich verbessert – auch auf Grundlage Ihrer Rückmeldungen. Wenn Sie also Verbesserungsvorschläge oder Ideen haben, melden Sie sich gern per E-Mail beim Digitalcheck-Team: [digitalcheck@digitalservice.bund.de](mailto:digitalcheck@digitalservice.bund.de)
 
 **Bitte achten Sie darauf, die aktuelle Version zu nutzen.** Sie finden diese unter https://digitalcheck.bund.de
 
@@ -63,7 +63,7 @@ Für die Erarbeitung Ihres Regelungsvorhabens stehen Ihnen begleitend zu Ihrem R
 
 Wenden Sie die Methoden und Prinzipien so früh wie möglich an, um den Gestaltungsspielraum zu nutzen, den Sie zu Beginn eines Regelungsverfahrens haben. Die Methoden und Prinzipien dienen Ihrer eigenen Qualitätssicherung.
 
-Bei Fragen steht Ihnen Ihre Ansprechperson im NKR-Sekretariat oder der Digitalcheck-Team
+Bei Fragen steht Ihnen Ihre Ansprechperson im NKR-Sekretariat oder das Digitalcheck-Team
 ([digitalcheck@digitalservice.bund.de](mailto:digitalcheck@digitalservice.bund.de), 0151 4076 7839) zur Verfügung.
 
 **Schicken Sie die begleitende Dokumentation an Ihre Ansprechperson im NKR-Sekretariat**, spätestens mit der Einleitung der Ressortabstimmung. Fügen Sie die begleitende Dokumentation des Digitalcheck gerne auch der Ressortabstimmung bei, um Entscheidungen bezüglich der Digitaltauglichkeit Ihren Kolleginnen und Kollegen nachvollziehbar zu machen.
@@ -81,7 +81,7 @@ Führen Sie die Vorprüfung **zu Beginn Ihrer Arbeit an einem Regelungsvorhaben*
 
 Wenn Sie gleichzeitig viele Änderungen an unterschiedlichen Regelungen durchführen, bündeln Sie diese bitte als inhaltlich sinnvolle Vorhaben, für welche Sie jeweils einen Digitalcheck durchführen.
 
-Wenn Sie sich nicht sicher sind, ob Ihre Regelungsvorhaben einen Digitalbezug aufweist oder nicht, melden Sie sich gerne beim Digitalcheck-Support ([digitalcheck@digitalservice.bund.de](mailto:digitalcheck@digitalservice.bund.de), 0151 4076 7839) oder bei Ihrer Ansprechperson im Sekretariat des NKR.
+Wenn Sie sich nicht sicher sind, ob Ihr Regelungsvorhaben einen Digitalbezug aufweist oder nicht, melden Sie sich gerne beim Digitalcheck-Team ([digitalcheck@digitalservice.bund.de](mailto:digitalcheck@digitalservice.bund.de), 0151 4076 7839) oder bei Ihrer Ansprechperson im Sekretariat des NKR.
 
 ### Vorprüfung
 
@@ -114,7 +114,7 @@ _*Beteiligte sind in diesem Zusammenhang Bürgerinnen und Bürger, Einwohnende, 
 Im zweiten Schritt geht es darum, dass Sie ihr Regelungsvorhaben so digitaltauglich wie möglich formulieren. Damit haben Sie in dieser Phase den größten Einfluss auf die Digitaltauglichkeit. Nutzen Sie daher aktiv den Gestaltungsspielraum, den Sie ganz am Anfang der Arbeit an einem Vorhaben haben.
 
 - Arbeiten Sie mit der begleitenden Dokumentation. Fangen Sie damit früh an. Diese schicken Sie zur Prüfung der Digitaltauglichkeit an das NKR-Sekretariat. Dieser Schritt ist verbindlich.
-- Orientieren Sie sich an den fünf Prinzipien für digitaltaugliche Gesetze.
+- Orientieren Sie sich an den fünf Prinzipien für digitaltaugliche Gesetzgebung.
 - Visualisieren Sie die Umsetzung Ihrer Regelungsidee (möglichst vor der ersten Verschriftlichung).
 - Beziehen Sie andere Blickwinkel ein.
 
@@ -143,7 +143,7 @@ Funktionsweise und Hintergrund der Prinzipien werden in diesem Blogbeitrag erkl�
 Eine Visualisierung der Umsetzung Ihrer Regelungsidee hilft Ihnen dabei, die Auswirkung der Umsetzung auf Betroffene* besser zu verstehen. Zusammenhänge werden sichtbar und Sie können Möglichkeiten der Digitalisierung in der Umsetzung identifizieren.
 Visualisieren Sie vor der ersten Textarbeit, um Aspekte der Digitaltauglichkeit frühzeitig zu erkennen und bei der Verschriftlichung Ihres Regelungsvorhabens berücksichtigen zu können. 
 
-_*Von dem Regelungsvorhaben Betroffene sind jene, die selbst Zielgruppe des Vorhabens sind oder für die sich Rahmenbedingungen durch Regelungen ändern._
+_*Von dem Regelungsvorhaben Betroffene sind jene, die selbst Zielgruppe des Vorhabens sind oder für die sich Rahmenbedingungen durch dieses Regelungsvorhaben ändern._
 
 #### Wobei helfen Ihnen Visualisierungen?
 
@@ -182,8 +182,8 @@ Markieren Sie in Ihrer Visualisierung, in welchen Schritten die fünf Prinzipien
 Beginnen Sie mit reduzierten Informationen und ergänzen Sie nach und nach Details in Ihrer Visualisierung. Fangen Sie wortwörtlich mit Stift auf Papier an. Im Mittelpunkt steht der Nutzen der Visualisierung, nicht das verwendete Programm oder die perfekte Anwendung einer Notationsform.
 
 #### Hier bekommen Sie Hilfe
-In Ihrem Referat, in Ihrem Ministerium oder in nachgelagerten Behörden kann es Kolleginnen und Kollegen geben, die bereits mit Visualisierungen arbeiten oder an einem der Digitalcheck Workshops teilgenommen haben. Bitten Sie sie um Unterstützung oder wenden Sie sich an den 
-Digitalcheck-Support ([digitalcheck@digitalservice.bund.de](mailto:digitalcheck@digitalservice.bund.de), 0151 4076 7839).
+In Ihrem Referat, in Ihrem Ministerium oder in nachgelagerten Behörden kann es Kolleginnen und Kollegen geben, die bereits mit Visualisierungen arbeiten oder an einem der Digitalcheck Workshops teilgenommen haben. Bitten Sie sie um Unterstützung oder wenden Sie sich an das 
+Digitalcheck-Team ([digitalcheck@digitalservice.bund.de](mailto:digitalcheck@digitalservice.bund.de), 0151 4076 7839).
 
 Mehr zur Visualisierung mit Flussdiagrammen finden Sie hier: [ondea.de/DE/ZfL/ZfL_node.html](https://www.ondea.de/DE/ZfL/ZfL_node.html), Modul 10 im Video “Visualisierung“.
 
@@ -315,7 +315,7 @@ Inhaltliche Stichpunkte mit Verweis auf den entsprechenden Paragrafen in Ihrem R
 
 Eine Skizzierung der Umsetzung Ihrer Regelungsidee hilft Ihnen dabei, die Auswirkung der Umsetzung auf Betroffene* besser zu verstehen: Zusammenhänge werden sichtbar und Sie können Möglichkeiten der Digitalisierung in der Umsetzung identifizieren.
 
-*Von der Regelung Betroffene sind jene, die selbst Zielgruppe der Regelung sind oder für die sich Rahmenbedingungen durch die Regelung ändern.
+*Von dem Regelungsvorhaben Betroffene sind jene, die selbst Zielgruppe des Vorhabens sind oder für die sich Rahmenbedingungen durch dieses Regelungsvorhaben ändern.
 
 #### Tipps für visuelle Darstellungen:
 
