@@ -1,6 +1,5 @@
-# Der Digitalcheck
-## Schreiben von digitaltauglichen Regelungsvorhaben
-
+# Der Digitalcheck:
+## Digitaltaugliche Regelungsvorhaben schreiben
 
 ### Was sind digitaltaugliche Regelungsvorhaben?
 
@@ -15,7 +14,7 @@ Der Digitalcheck gilt für alle Regelungsvorhaben (Gesetze, Verordnungen und Ver
 
 ### Der Digitalcheck wird stetig verbessert
 
-Der Digitalcheck wird iterativ erarbeitet und kontinuierlich verbessert – auch auf Grundlage Ihrer Rückmeldungen. Wenn Sie also Verbesserungsvorschläge oder Ideen haben, melden Sie sich gern per E-Mail beim Digitalcheck-Team: [digitalcheck@digitalservice.bund.de](mailto:digitalcheck@digitalservice.bund.de)
+Der Digitalcheck wird iterativ erarbeitet und kontinuierlich verbessert – auch auf Grundlage Ihrer Rückmeldungen. Wenn Sie also Verbesserungsvorschläge oder Ideen haben, melden Sie sich gern per E-Mail beim Digitalcheck Team: [digitalcheck@digitalservice.bund.de](mailto:digitalcheck@digitalservice.bund.de)
 
 **Bitte achten Sie darauf, die aktuelle Version zu nutzen.** Sie finden diese unter https://digitalcheck.bund.de
 
@@ -63,7 +62,7 @@ Für die Erarbeitung Ihres Regelungsvorhabens stehen Ihnen begleitend zu Ihrem R
 
 Wenden Sie die Methoden und Prinzipien so früh wie möglich an, um den Gestaltungsspielraum zu nutzen, den Sie zu Beginn eines Regelungsverfahrens haben. Die Methoden und Prinzipien dienen Ihrer eigenen Qualitätssicherung.
 
-Bei Fragen steht Ihnen Ihre Ansprechperson im NKR-Sekretariat oder das Digitalcheck-Team
+Bei Fragen steht Ihnen Ihre Ansprechperson im NKR-Sekretariat oder das Digitalcheck Team
 ([digitalcheck@digitalservice.bund.de](mailto:digitalcheck@digitalservice.bund.de), 0151 4076 7839) zur Verfügung.
 
 **Schicken Sie die begleitende Dokumentation an Ihre Ansprechperson im NKR-Sekretariat**, spätestens mit der Einleitung der Ressortabstimmung. Fügen Sie die begleitende Dokumentation des Digitalcheck gerne auch der Ressortabstimmung bei, um Entscheidungen bezüglich der Digitaltauglichkeit Ihren Kolleginnen und Kollegen nachvollziehbar zu machen.
@@ -81,7 +80,7 @@ Führen Sie die Vorprüfung **zu Beginn Ihrer Arbeit an einem Regelungsvorhaben*
 
 Wenn Sie gleichzeitig viele Änderungen an unterschiedlichen Regelungen durchführen, bündeln Sie diese bitte als inhaltlich sinnvolle Vorhaben, für welche Sie jeweils einen Digitalcheck durchführen.
 
-Wenn Sie sich nicht sicher sind, ob Ihr Regelungsvorhaben einen Digitalbezug aufweist oder nicht, melden Sie sich gerne beim Digitalcheck-Team ([digitalcheck@digitalservice.bund.de](mailto:digitalcheck@digitalservice.bund.de), 0151 4076 7839) oder bei Ihrer Ansprechperson im Sekretariat des NKR.
+Wenn Sie sich nicht sicher sind, ob Ihr Regelungsvorhaben einen Digitalbezug aufweist oder nicht, melden Sie sich gerne beim Digitalcheck Team ([digitalcheck@digitalservice.bund.de](mailto:digitalcheck@digitalservice.bund.de), 0151 4076 7839) oder bei Ihrer Ansprechperson im Sekretariat des NKR.
 
 ### Vorprüfung
 
@@ -183,7 +182,7 @@ Beginnen Sie mit reduzierten Informationen und ergänzen Sie nach und nach Detai
 
 #### Hier bekommen Sie Hilfe
 In Ihrem Referat, in Ihrem Ministerium oder in nachgelagerten Behörden kann es Kolleginnen und Kollegen geben, die bereits mit Visualisierungen arbeiten oder an einem der Digitalcheck Workshops teilgenommen haben. Bitten Sie sie um Unterstützung oder wenden Sie sich an das 
-Digitalcheck-Team ([digitalcheck@digitalservice.bund.de](mailto:digitalcheck@digitalservice.bund.de), 0151 4076 7839).
+Digitalcheck Team ([digitalcheck@digitalservice.bund.de](mailto:digitalcheck@digitalservice.bund.de), 0151 4076 7839).
 
 Mehr zur Visualisierung mit Flussdiagrammen finden Sie hier: [ondea.de/DE/ZfL/ZfL_node.html](https://www.ondea.de/DE/ZfL/ZfL_node.html), Modul 10 im Video “Visualisierung“.
 
