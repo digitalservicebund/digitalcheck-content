@@ -3,7 +3,7 @@
 
 ### Was sind digitaltaugliche Regelungsvorhaben?
 
-Digitaltaugliche Regelungen ermöglichen eine einfache und wirkungsorientierte Umsetzung oder Vollzug der Regelungsgegenstände, indem sie digitale Möglichkeiten zum Nutzen aller Beteiligten ausschöpfen. Beteiligte sind in diesem Zusammenhang Bürgerinnen und Bürger, Einwohnende, die Verwaltung, Unternehmen und weitere Organisationen wie z. B. Vereine.
+Digitaltaugliche Regelungen ermöglichen eine einfache und wirkungsorientierte Umsetzung, bzw. Vollzug von Regelungsgegenstände, indem sie digitale Möglichkeiten zum Nutzen aller Beteiligten ausschöpfen. Beteiligte sind in diesem Zusammenhang Bürgerinnen und Bürger, Einwohnende, die Verwaltung, Unternehmen und weitere Organisationen wie zum Beispiel Vereine.
 
 Digitaltaugliche Regelungen sind somit ein grundlegendes Element für eine erfolgreiche Digitalisierung in allen Lebensbereichen.
 
@@ -36,7 +36,7 @@ Version 1.3 - 15.05.2024 | **Bitte stellen Sie sicher**, immer die aktuelle Vers
 
 ### Zusammengefasst
 Der Digitalcheck besteht aus zwei Schritten:
-- Mit der Vorprüfung prüfen Sie, ob Ihr Regelungsgegenstand / Regelungsvorhaben Digitalbezug hat.
+- Mit der Vorprüfung prüfen Sie, ob Ihr Regelungsgegenstand bzw. Regelungsvorhaben Digitalbezug hat.
 - Bei vorliegendem Digitalbezug erarbeiten Sie ein digitaltaugliches Regelungsvorhaben mithilfe der begleitenden Dokumentation sowie unterstützender Methoden.
 
 ![Die zwei Schritte des Digitalcheck nacheinander auf einer Zeitachse abgebildet](./img/Ablaufdiagramm.png "Ablaufdiagramm des Digitalchecks")
@@ -52,20 +52,20 @@ Nach der Vorprüfung wissen Sie, ob Ihre Regelungsidee einen Digitalbezug hat od
 
 **Schicken Sie in beiden Fällen** die ausgefüllte Vorprüfung schon zu diesem Zeitpunkt an das NKR-Sekretariat. Die für Ihr Haus zuständige Ansprechperson finden Sie hier: [normenkontrollrat.bund.de/Webs/NKR/DE/der-nkr/sekretariat/sekretariat_node.html](https://normenkontrollrat.bund.de/Webs/NKR/DE/der-nkr/sekretariat/sekretariat_node.html). Das NKR-Sekretariat steht Ihnen auch in frühen Phasen der Arbeit am Regelungsvorhaben (also weit vor der Ressortabstimmung) im Rahmen seines Beratungsmandats und seiner Kapazitäten zur Verfügung.
 
-### Schritt 2: Erarbeitung eines digitaltauglichen Regelungsvorhabens
+### Schritt 2: Ein digitaltaugliches Regelungsvorhaben erarbeiten
 
-Für die Erarbeitung Ihres Regelungsvorhabens stehen Ihnen begleitend zu Ihrem Recherche- und Schreibprozess unterschiedliche Methoden zur Verfügung, um Aspekte der Digitaltauglichkeit zu berücksichtigen: 
+Um Ihr Regelungsvorhabens zu erarbeiten, stehen Ihnen begleitend zu Ihrem Recherche- und Schreibprozess unterschiedliche Methoden zur Verfügung, um Aspekte der Digitaltauglichkeit zu berücksichtigen: 
 - Visualisierungen der Umsetzung bzw. des Vollzugs ihrer Regelungsidee,
 - das Einbeziehen anderer Blickwinkel,
 - die fünf Prinzipien für digitaltaugliche Gesetzgebung,
 - und die begleitende Dokumentation (**verbindlich**).
 
-Wenden Sie die Methoden und Prinzipien so früh wie möglich an, um den Gestaltungsspielraum zu nutzen, den Sie zu Beginn eines Regelungsverfahrens haben. Die Methoden und Prinzipien dienen Ihrer eigenen Qualitätssicherung.
+Wenden Sie die Methoden und Prinzipien so früh wie möglich an, um den Gestaltungsspielraum zu nutzen, den Sie zu Beginn eines Regelungsverfahrens haben. So stellen Sie sicher, dass Sie alle Aspekte beachten und einarbeiten können.
 
 Bei Fragen steht Ihnen Ihre Ansprechperson im NKR-Sekretariat oder das Digitalcheck Team
 ([digitalcheck@digitalservice.bund.de](mailto:digitalcheck@digitalservice.bund.de), 0151 4076 7839) zur Verfügung.
 
-**Schicken Sie die begleitende Dokumentation an Ihre Ansprechperson im NKR-Sekretariat**, spätestens mit der Einleitung der Ressortabstimmung. Fügen Sie die begleitende Dokumentation des Digitalcheck gerne auch der Ressortabstimmung bei, um Entscheidungen bezüglich der Digitaltauglichkeit Ihren Kolleginnen und Kollegen nachvollziehbar zu machen.
+**Schicken Sie die begleitende Dokumentation an Ihre Ansprechperson im NKR-Sekretariat**, spätestens mit der Einleitung der Ressortabstimmung. Fügen Sie die begleitende Dokumentation des Digitalcheck gerne auch der Ressortabstimmung bei, damit Ihre Kolleginnen und Kollegen Entscheidungen bezüglich der Digitaltauglichkeit nachvollziehen können.
 
 **Folgendes prüft der NKR:**
 
@@ -73,14 +73,14 @@ Der NKR prüft Ihr Regelungsvorhaben auf Möglichkeiten der digitalen Umsetzung.
 
 ## Schritt 1: Vorprüfung
 
-**Titel der Regelung**: _[Freitextfeld]_
+**Titel des Regelungsvorhabens**: _[Freitextfeld]_
 
 ### Zusammengefasst
 Führen Sie die Vorprüfung **zu Beginn Ihrer Arbeit an einem Regelungsvorhaben** durch, das heißt: vor der Formulierung eines Regelungstextes.
 
-Wenn Sie gleichzeitig viele Änderungen an unterschiedlichen Regelungen durchführen, bündeln Sie diese bitte als inhaltlich sinnvolle Vorhaben, für welche Sie jeweils einen Digitalcheck durchführen.
+Wenn Sie gleichzeitig unterschiedlichen Regelungen ändern, bündeln Sie diese bitte als inhaltlich sinnvolle Vorhaben, für die Sie jeweils einen Digitalcheck durchführen.
 
-Wenn Sie sich nicht sicher sind, ob Ihr Regelungsvorhaben einen Digitalbezug aufweist oder nicht, melden Sie sich gerne beim Digitalcheck Team ([digitalcheck@digitalservice.bund.de](mailto:digitalcheck@digitalservice.bund.de), 0151 4076 7839) oder bei Ihrer Ansprechperson im Sekretariat des NKR.
+Wenn Sie unsicher sind, ob Ihr Regelungsvorhaben einen Digitalbezug aufweist, melden Sie sich gerne beim Digitalcheck Team ([digitalcheck@digitalservice.bund.de](mailto:digitalcheck@digitalservice.bund.de), 0151 4076 7839) oder bei Ihrer Ansprechperson im Sekretariat des NKR.
 
 ### Vorprüfung
 
@@ -112,10 +112,10 @@ _*Beteiligte sind in diesem Zusammenhang Bürgerinnen und Bürger, Einwohnende, 
 ### Zusammengefasst
 Im zweiten Schritt geht es darum, dass Sie ihr Regelungsvorhaben so digitaltauglich wie möglich formulieren. Damit haben Sie in dieser Phase den größten Einfluss auf die Digitaltauglichkeit. Nutzen Sie daher aktiv den Gestaltungsspielraum, den Sie ganz am Anfang der Arbeit an einem Vorhaben haben.
 
-- Arbeiten Sie mit der begleitenden Dokumentation. Fangen Sie damit früh an. Diese schicken Sie zur Prüfung der Digitaltauglichkeit an das NKR-Sekretariat. Dieser Schritt ist verbindlich.
-- Orientieren Sie sich an den fünf Prinzipien für digitaltaugliche Gesetzgebung.
 - Visualisieren Sie die Umsetzung Ihrer Regelungsidee (möglichst vor der ersten Verschriftlichung).
 - Beziehen Sie andere Blickwinkel ein.
+- Orientieren Sie sich an den fünf Prinzipien für digitaltaugliche Gesetzgebung.
+- Arbeiten Sie mit der begleitenden Dokumentation. Fangen Sie damit früh an. Diese schicken Sie zur Prüfung der Digitaltauglichkeit an das NKR-Sekretariat. Dieser Schritt ist verbindlich.
 
 ### Arbeiten Sie mit der begleitenden Dokumentation
 
@@ -146,10 +146,10 @@ _*Von dem Regelungsvorhaben Betroffene sind jene, die selbst Zielgruppe des Vorh
 
 #### Wobei helfen Ihnen Visualisierungen?
 
-- Visuelle Darstellungen komplexer Sachverhalte sind schneller und intuitiver erfassbar.
+- Visuelle Darstellungen komplexer Sachverhalte sind schneller und intuitiver erfassbar als Text.
 - Beim Visualisieren setzen Sie sich mit digitalen Möglichkeiten auseinander, dadurch entstehen neue Lösungen.
 - Visualisierungen helfen bei der Kommunikation Ihrer Regelungsidee (z. B. in Abstimmungen, Gesprächen mit Umsetzungsinstanzen).
-- Eine digitale Umsetzung schafft neue Möglichkeiten und erfordert dadurch andere Prozesse, die sich gut visuell abbilden lassen (z.B. Zusammenfassung von Schritten durch Automatisierung, Datenabgleich/-austausch, Entscheidungslogiken).
+- Eine digitale Umsetzung schafft neue Möglichkeiten und erfordert dadurch andere Prozesse, die sich gut visuell abbilden lassen (z. B. Zusammenfassung von Schritten durch Automatisierung, Datenabgleich/-austausch, Entscheidungslogiken).
 - Eine Visualisierung hilft Ihnen Logikbrüche, Medienbrüche, Inkonsistenzen, offene Verfahrensenden, Schleifen, uneinheitliche Rechtsbegriffe und vermeidbare Schriftformerfordernisse oder analoge Nachweise zu erkennen und zu vermeiden.
 
 #### Welche Art der Visualisierung geeignet ist
