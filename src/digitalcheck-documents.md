@@ -354,11 +354,11 @@ Expertinnen und Experten für Digitalisierung, Datenschutz und Gestaltung von Di
 
 **Welche Schritte haben Sie unternommen, um zu prüfen, ob die Ergebnisse des Regelungsvorhabens den Bedürfnissen der Betroffenen und des Vollzugs entsprechen?**  Bitte listen Sie stichpunktartig auf, ob bzw. welche Schritte Sie unternommen haben. 
   
-**Zum Beispiel:** rühzeitige Befragung von betroffenen Bürgerinnen und Bürgern, Gespräche mit Vollzugsakteurinnen und -akteuren oder Expertinnen und Experten, formelle Beteiligungsverfahren.
+**Zum Beispiel:** frühzeitige Befragung von Bürgerinnen und Bürgern, Gespräche mit Vollzugsakteurinnen und -akteuren oder Expertinnen und Experten, formelle Beteiligungsverfahren.
 
 _[Freitextfeld]_
 
-**Wie spiegeln sich die Erkenntnisse, die durch die oben genannten Schritte gewonnen wurden, in ihrem Regelungsvorhaben wider?** Bitte listen Sie stichpunktartig auf, welche Erkenntnisse eingearbeitet wurden und geben Sie Hinweise auf Paragrafen, die besonders umsetzungsrelevant sind.
+**Wie spiegeln sich die Erkenntnisse, die durch die oben genannten Schritte gewonnen wurden, im Regelungsvorhaben wider?** Bitte listen Sie stichpunktartig auf, welche Erkenntnisse eingearbeitet wurden und geben Sie Hinweise auf Paragrafen, die besonders umsetzungsrelevant sind.
 
 _[Freitextfeld]_
 
@@ -427,7 +427,7 @@ Datenschutz und Informationssicherheit sind zentrale Voraussetzungen für praxis
 
 #### Frage 
 
-**Schafft ihr Regelungsvorhaben die Voraussetzungen für eine Gewährleistung von Datenschutz und  Informationssicherheit?**  
+**Schafft das Regelungsvorhaben die Voraussetzungen für eine Gewährleistung von Datenschutz und  Informationssicherheit?**  
 Bitte kreuzen Sie eine der Optionen an und listen Sie zwei bis drei Stichpunkte auf. Verweisen Sie dabei auf die jeweiligen Paragrafen und ggf. auch auf andere anwendbare Regelungen.   
 **Zum Beispiel:** “Bedingungen für die Verwendung von Kontaktdaten, siehe § 1a (2)”.
 
@@ -476,7 +476,7 @@ Digitale Lösungen zu erstellen, ist zunächst aufwändig. Die “Duplikation”
 
 #### Frage 
 
-**Ermöglicht das Regelungsvorhaben die Automatisierung des Vollzugs?**  
+**Ermöglicht das Regelungsvorhaben eine automatisierte Umsetzung?**  
 Bitte kreuzen Sie eine der Optionen an und listen Sie zwei bis drei Stichpunkte auf. Verweisen Sie dabei auf die jeweiligen Paragrafen und ggf. auch auf andere anwendbare Regelungen. 
 **Zum Beispiel:** “Verzicht auf persönliches Erscheinen, siehe § 4”.
 
@@ -489,10 +489,10 @@ Erläuterung: _[Freitextfeld]_
 
 ### Das passiert als Nächstes
 
-**Schicken Sie die begleitende Dokumentation** so früh wie möglich an Ihre Ansprechperson im NKR-Sekretariat, spätestens mit der Einleitung der Ressortabstimmung. Fügen Sie die Vorprüfung bei, falls Sie diese bisher noch nicht an das NKR-Sekretariat übermittelt haben.  
+**Schicken Sie die begleitende Dokumentation** so früh wie möglich an Ihre Ansprechperson im NKR-Sekretariat, spätestens mit der Einleitung der Ressortabstimmung.   
 Die für Ihr Haus zuständige Ansprechperson finden Sie hier: [normenkontrollrat.bund.de/Webs/NKR/DE/der-nkr/sekretariat/sekretariat_node.html](https://normenkontrollrat.bund.de/Webs/NKR/DE/der-nkr/sekretariat/sekretariat_node.html)
 
 Der NKR prüft gemäß seines Auftrags die Nachvollziehbarkeit der Digitaltauglichkeit Ihres Regelungsentwurfes anhand der Fragen, die Sie in der Dokumentation beantwortet haben.  
 Gegebenenfalls wird Ihre Ansprechperson im NKR-Sekretariat mit Fragen oder Anregungen auf Sie zukommen.
 
-Fügen Sie die begleitende Dokumentation des Digitalcheck gerne auch der Ressortabstimmung bei, damit Ihre Kolleginnen und Kollegen Ihre Entscheidungen nachvollziehen können.
+Fügen Sie die Dokumentation des Digitalcheck gerne auch der Ressortabstimmung bei, damit Ihre Kolleginnen und Kollegen Ihre Entscheidungen nachvollziehen können.
