@@ -1,9 +1,9 @@
-# Der Digitalcheck:
-## Digitaltaugliche Regelungsvorhaben schreiben
+![image](https://github.com/digitalservicebund/digitalcheck-content/assets/50301156/c9e01e7d-328b-49ad-b821-c47610416e89)![image](https://github.com/digitalservicebund/digitalcheck-content/assets/50301156/d73611a0-39cc-41a5-85d1-5087c2b075e7)# Der Digitalcheck:
+## Digitaltaugliche Regelungsvorhaben erarbeiten
 
 ### Was sind digitaltaugliche Regelungsvorhaben?
 
-Digitaltaugliche Regelungen ermöglichen eine einfache und wirkungsorientierte Umsetzung, bzw. Vollzug von Regelungsgegenstände, indem sie digitale Möglichkeiten zum Nutzen aller Beteiligten ausschöpfen. Beteiligte sind in diesem Zusammenhang Bürgerinnen und Bürger, Einwohnende, die Verwaltung, Unternehmen und weitere Organisationen wie zum Beispiel Vereine.
+Digitaltaugliche Regelungsvorhaben ermöglichen die **einfache und wirkungsorientierte Umsetzung **von Regelungsgegenständen, indem sie digitale Möglichkeiten zum Nutzen aller Beteiligten ausschöpfen. Beteiligte sind in diesem Zusammenhang Bürgerinnen und Bürger, Einwohnende, die Verwaltung, Unternehmen und weitere Organisationen wie zum Beispiel Vereine.
 
 Digitaltaugliche Regelungen sind somit ein grundlegendes Element für eine erfolgreiche Digitalisierung in allen Lebensbereichen.
 
@@ -11,22 +11,14 @@ Der Nationale Normenkontrollrat (NKR) prüft gemäß seines Auftrags, ob die Dig
 
 Der Digitalcheck gilt für alle Regelungsvorhaben (Gesetze, Verordnungen und Verwaltungsvorschriften), sowohl für neue Vorhaben als auch für Änderungen an bestehenden Regelungen.
 
-
 ### Der Digitalcheck wird stetig verbessert
 
 Der Digitalcheck wird iterativ erarbeitet und kontinuierlich verbessert – auch auf Grundlage Ihrer Rückmeldungen. Wenn Sie also Verbesserungsvorschläge oder Ideen haben, melden Sie sich gern per E-Mail beim Digitalcheck Team: [digitalcheck@digitalservice.bund.de](mailto:digitalcheck@digitalservice.bund.de)
 
-**Bitte achten Sie darauf, die aktuelle Version zu nutzen.** Sie finden diese unter https://digitalcheck.bund.de
+**Bitte benutzen Sie die aktuelle Version.** Diese finden Sie hier: https://digitalcheck.bund.de
 
-### Das finden Sie in der Version 1.2  des Digitalcheck
-
-- Die Anleitung zum Digitalcheck
-- Schritt 1: 
-  - Die Vorprüfung (**verbindlich**)
-- Schritt 2: 
-  - Erarbeiten einer digitaltauglichen Regelung 
-  - Die fünf Prinzipien für digitaltaugliche Gesetze 
-  - Die begleitende Dokumentation der Digitaltauglichkeit (**verbindlich**)
+### PLATZHALTER GRAFIK & ALT TEXT
+![Die zwei Schritte des Digitalcheck nacheinander auf einer Zeitachse abgebildet](./img/Ablaufdiagramm.png "Ablaufdiagramm des Digitalchecks")
 
 **Benötigen Sie Hilfe?** Sie erreichen uns unter [digitalcheck@digitalservice.bund.de](mailto:digitalcheck@digitalservice.bund.de) oder 0151 4076 7839. Wir helfen Ihnen weiter.
 Version 1.3 - 15.05.2024 | **Bitte stellen Sie sicher**, immer die aktuelle Version der Dokumente zu nutzen. Diese finden Sie hier:
@@ -35,13 +27,14 @@ Version 1.3 - 15.05.2024 | **Bitte stellen Sie sicher**, immer die aktuelle Vers
 ## Anleitung zum Digitalcheck
 
 ### Zusammengefasst
-Der Digitalcheck besteht aus zwei Schritten:
-- Mit der Vorprüfung prüfen Sie, ob Ihr Regelungsgegenstand bzw. Regelungsvorhaben Digitalbezug hat.
-- Bei vorliegendem Digitalbezug erarbeiten Sie ein digitaltaugliches Regelungsvorhaben mithilfe der begleitenden Dokumentation sowie unterstützender Methoden.
+Führen Sie die Vorprüfung zu **Beginn Ihrer Arbeit an einem Regelungsvorhaben** durch, das heißt: vor der Formulierung eines Regelungstextes.
 
-![Die zwei Schritte des Digitalcheck nacheinander auf einer Zeitachse abgebildet](./img/Ablaufdiagramm.png "Ablaufdiagramm des Digitalchecks")
+Wenn Sie mehrere Regelungen ändern, bündeln Sie diese als inhaltlich sinnvolle Vorhaben, für die Sie jeweils einen Digitalcheck durchführen.
 
-### Schritt 1: Die Vorprüfung
+Wenn Sie unsicher sind, ob Ihr Regelungsvorhaben einen Digitalbezug aufweist, melden Sie sich gerne beim Digitalcheck Team (0151 4076 7839, digitalcheck@digitalservice.bund.de).
+
+
+### Schritt 1: Vorprüfung: Digitalbezug einschätzen
 
 Führen Sie die Vorprüfung durch, **sobald Sie die Arbeit an Ihrem Regelungsvorhaben beginnen**, spätestens aber bevor Sie konkrete Rechtsnormen formulieren. 
 Nach der Vorprüfung wissen Sie, ob Ihre Regelungsidee einen Digitalbezug hat oder nicht. 
@@ -71,7 +64,7 @@ Bei Fragen steht Ihnen Ihre Ansprechperson im NKR-Sekretariat oder das Digitalch
 
 Der NKR prüft Ihr Regelungsvorhaben auf Möglichkeiten der digitalen Umsetzung. Die Grundlage für die Prüfung ist die ausgefüllte begleitende Dokumentation, das wesentliche Prüfkriterium ist die methodische und inhaltliche Nachvollziehbarkeit. Sein Prüfergebnis veröffentlicht der NKR gegebenenfalls in seinen Stellungnahmen. Bei Fragen oder Anregungen wird Ihre Ansprechperson im NKR-Sekretariat auf Sie zukommen.
 
-## Schritt 1: Vorprüfung
+## Schritt 1: Vorprüfung: Digitalbezug einschätzen
 
 **Titel des Regelungsvorhabens**: _[Freitextfeld]_
 
@@ -80,26 +73,29 @@ Führen Sie die Vorprüfung **zu Beginn Ihrer Arbeit an einem Regelungsvorhaben*
 
 Wenn Sie gleichzeitig unterschiedlichen Regelungen ändern, bündeln Sie diese bitte als inhaltlich sinnvolle Vorhaben, für die Sie jeweils einen Digitalcheck durchführen.
 
-Wenn Sie unsicher sind, ob Ihr Regelungsvorhaben einen Digitalbezug aufweist, melden Sie sich gerne beim Digitalcheck Team ([digitalcheck@digitalservice.bund.de](mailto:digitalcheck@digitalservice.bund.de), 0151 4076 7839) oder bei Ihrer Ansprechperson im Sekretariat des NKR.
+Wenn Sie unsicher sind, ob Ihr Regelungsvorhaben einen Digitalbezug aufweist, melden Sie sich gerne beim Digitalcheck Team ([digitalcheck@digitalservice.bund.de](mailto:digitalcheck@digitalservice.bund.de), 0151 4076 7839).
 
-### Vorprüfung
+### Digitalbezug liegt vor, wenn die Umsetzung des Regelungsvorhabens voraussichtlich …
+- eine Anpassung oder Neuentwicklung einer IT-Lösung zur Folge haben werden.
+- Verpflichtungen für Beteiligte* zur Folge haben werden.
+-  einen Datenaustausch oder eine Wiederverwendung von Daten zur Folge haben, oder durch diese vereinfacht werden könnten.
+- Interaktion und/oder Kommunikation zwischen Beteiligten* zur Folge haben werden.
+- durch (Teil-)Automatisierung und/oder digitaler Dokumentation verbessert werden.
 
-**Die Umsetzung bzw. der Vollzug des Regelungsvorhabens wird voraussichtlich…**
-- eine Anpassung oder Neuentwicklung einer IT-Lösung zur Folge haben.
-- Verpflichtungen für Beteiligte* zur Folge haben
-- einen Datenaustausch zur Folge haben, eine Wiederverwendung von Daten zur Folge haben oder könnte durch diese vereinfacht werden.
-- Interaktion und/oder Kommunikation zwischen Beteiligten* zur Folge haben.
-- durch (Teil-)Automatisierung und/oder digitale Dokumentation verbessert bzw. erleichtert.   
-**Sollte eine oder mehrere dieser Aussagen zutreffen**, führen Sie bitte einen erweiterten Digitalcheck durch. Bitte verwenden Sie dafür die unter Schritt 2 aufgeführten Methoden sowie die begleitende Dokumentation. 
+**Wenn mindestens eine dieser Aussagen zutrifft,** finden Sie auf digitalcheck.bund.de Hilfestellungen zu Visualisierungen, dem Einbezug von Digital- & Umsetzungsexpertise und inhaltlichen Aspekten, um ein digitaltaugliches Regelungsvorhaben zu erarbeiten. Sie finden dort auch die Dokumentation des Digitalcheck, die Sie mit Beginn der Ressortabstimmung und der Einbindung des Normenkontrollrats an das Sekretariat des NKR schicken.
 
+### Digitalbezug liegt nicht vor, wenn Umsetzung bzw. Vollzug des Regelungsvorhabens voraussichtlich …
+-  durch digitale Möglichkeiten nicht verbessert oder erleichtert werden.
 
-- Die Umsetzung oder der Vollzug des Regelungsvorhabens wird voraussichtlich durch digitale Möglichkeiten nicht verbessert oder erleichtert.   
-**Sollte nur diese Aussage zutreffen**, bearbeiten Sie Schritt 2 nicht. Der Digitalcheck ist beendet.  
-Bitte erläutern Sie hier das Ergebnis:
+**Sollte nur diese Aussage zutreffen**, erläutern Sie bitte Ihre Einschätzung:
 
 _[Freitextfeld]_
 
+Schicken Sie die Vorprüfung an das Sekretariat des NKR. Die für Ihr Haus zuständige Ansprechperson
+finden Sie hier: normenkontrollrat.bund.de/Webs/NKR/DE/der-nkr/sekretariat/sekretariat_node.html Damit ist der Digitalcheck für Sie beendet.
+
 _*Beteiligte sind in diesem Zusammenhang Bürgerinnen und Bürger, Einwohnende, die Verwaltung, Unternehmen und weitere Organisationen wie z.B. Vereine._
+
 
 ### Das passiert als Nächstes
 **Übersenden Sie die Vorprüfung an das Sekretariat des NKR.** Die für Ihr Haus zuständige Ansprechperson finden Sie hier:
