@@ -218,4 +218,85 @@ Digitalisierung ermöglicht eine beinahe kostenlose Skalierung von einmal erstel
 - Weitere Anleitungen und Tipps finden Sie im separaten Dokument „Hilfestellungen“
 - Senden Sie sie so früh wie möglich an das NKR-Sekretariat, spätestens mit der Einleitung der Ressortabstimmung.
 
+### Die Dokumentation begleitet Ihre Arbeit an der Regelung
+Nutzen Sie die Dokumentation, während Sie Ihr Regelungsvorhaben schreiben: Je früher Sie beginnen, desto besser. Begleitend zu Ihrem Recherche- und Schreibprozess unterstützt Sie die Dokumentation dabei, die unterschiedlichen Aspekte von Digitaltauglichkeit zu berücksichtigen. Dies dient Ihrer eigenen Qualitätssicherung.
+
+Bei Fragen können Sie sich von Ihrer Ansprechperson im NKR-Sekretariat oder dem Digitalcheck
+Team (digitalcheck@digitalservice.bund.de, 0151 4076 7839) beraten lassen. Planen Sie genug Zeit ein, um Ihre Fragen zu klären und ggf. Anpassungen an Ihrem Regelungsvorhaben vorzunehmen.
+
+Schicken Sie die Dokumentation so früh wie möglich an Ihre Ansprechperson im NKR-Sekretariat, spätestens mit der Einleitung der Ressortabstimmung. Fügen Sie die Dokumentation des Digitalcheck und Visualisierungen des Umsetzungsprozesses gerne auch der Ressortabstimmung bei, um Entscheidungen Ihren Kolleginnen und Kollegen nachvollziehbar zu machen.
+
+### Das prüft der Nationale Normenkontrollrat
+Der NKR prüft das Regelungsvorhaben auf Möglichkeiten der digitalen Umsetzung auf Basis des von Ihnen durchgeführten Digitalcheck. Das wesentliche Prüfkriterium ist die methodische und inhaltliche Nachvollziehbarkeit. Sein Prüfergebnis veröffentlicht er gegebenenfalls in seinen Stellungnahmen. Wenn Sie eine Visualisierung angefertigt haben und Sie der Veröffentlichung zustimmen, kann diese an die Stellungnahme angehängt werden. Bei Fragen oder Anregungen wird Ihre Ansprechperson im NKR-Sekretariat auf Sie zukommen.
+
+#### Tipps zum Arbeiten mit der Dokumentation
+Sie können bei jeder der folgenden Fragen digitaltaugliche Aspekte hervorheben oder erläutern, weshalb in bestimmten Fällen von einer Digitalisierung abgesehen wird.
+
+Inhaltliche Stichpunkte mit Verweis auf den entsprechenden Paragrafen in Ihrem Regelungsvorhaben sind als Erläuterung ausreichend. Verweisen Sie ggf. auch auf andere anwendbare Regelungen.
+
+**Titel der Regelung**: _[Freitextfeld]_
+
+### Alle Fragen in der begleitenden Dokumentation
+
+- Die Umsetzung des Regelungsvorhabens visualisieren
+- Wie haben Sie geprüft, ob die Umsetzung des Regelungsvorhabens den Bedürfnissen der Betroffenen und den Anfoderungen in der Umsetzung entsprechen wird?
+- Wie spiegeln sich die Erkenntnisse, die durch die oben genannten Schritte gewonnen wurden, im Regelungsvorhaben wieder?
+- Schafft das Regelungsvorhaben die Voraussetzungen für eine digitale Kommunikation?
+- Schafft das Regelungsvorhaben die Voraussetzungen für eine Wiederverwendung von Daten und Standards?
+- Schafft das Regelungsvorhaben die Voraussetzungen für eine Gewährleistung von Datenschutz und Informationssicherheit?
+- Enthält das Vorhaben klare Regelungen für eine digitale Ausführung?
+- Ermöglicht das Regelungsvorhaben eine automatisierte Umsetzung?
+
+### Die Umsetzung des Regelungsvorhabens visualisieren
+
+#### Darum ist das wichtig:
+Eine Visualisierung der Umsetzung Ihres Regelungsvorhabens hilft Ihnen dabei, die Auswirkung der Umsetzung auf Betroffene besser zu verstehen: Zusammenhänge werden sichtbar und Sie können Möglichkeiten der Digitalisierung in der Umsetzung identifizieren. Von dem Regelungsvorhaben Betroffene sind jene, die selbst Zielgruppe des Vorhabens sind oder für die sich Rahmenbedingungen durch dieses Regelungsvorhaben ändern.
+
+#### Tipps für Visualisierungen:
+Es gibt unterschiedliche Arten der Visualisierung (oft auch Notationen genannt). Je nach Zielsetzung
+eignen sich unterschiedliche Visualisierungen: etwa Nutzerreisen, Entscheidungsbäume oder Datenflüsse. Für die Darstellung von Prozessen gibt es standardisierte Methoden, wie z. B. BPMN (Business Process Modeling Notation) oder den Standard des Föderalen Informationsmanagement (FIM). Wenn Sie bisher nicht mit Visualisierungen gearbeitet haben, empfehlen wir Ihnen ein Flussdiagramm. Das Vorgehen ist im Dokument ›Hilfestellungen‹ auf digitalcheck.bund.de unter ›Visualisieren Sie die Umsetzung des Regelungsvorhabens‹ beschrieben. Bei Fragen wenden Sie sich an das Digitalcheck Team (0151 4076 7839, digitalcheck@digitalservice.bund.de).
+
+_Hängen Sie visuelle Darstellungen und Skizzen gerne formlos als PDF an._
+
+### Auswirkungen auf Betroffene und an der Umsetzung Beteiligte
+
+#### Darum ist das wichtig:
+Ihr Regelungsvorhaben soll den Bedürfnissen der Betroffenen gerecht werden. Außerdem soll es die
+Anforderung in der Umsetzung berücksichtigen, beispielsweise in den zuständigen Behörden.
+
+#### Tipps für Ihr Regelungsvorhaben:
+Um frühzeitig die Bedürfnisse derer zu verstehen, für die das Gesetz geschrieben wird, holen Sie sich Informationen ein, z. B. über Gespräche mit den Betroffenen und Umsetzenden selbst – häufig genügen bereits fünf bis sechs qualitative Interviews.
+
+Expertinnen und Experten für Digitalisierung, Datenschutz und Gestaltung von Dienstleistungen können Ihre Fragen beantworten und Sie auf wichtige, Ihnen bisher unbekannte Aspekte aufmerksam machen. Wenden Sie sich auch gerne an das Digitalcheck Team (0151 4076 7839, digitalcheck@digitalservice.bund.de)
+
+##### Betroffene können sein:
+- Bürgerinnen und Bürger
+- Unternehmen, Vereine, weitere Organisationen
+- Kommunen, Verwaltung und Behörden
+##### Beteiligte an der Umsetzung können sein:
+- Unternehmen, Vereine, weitere Organisationen
+- Kommunen, Verwaltungen und Behörden, deren IT- oder Rechtsabteilungen
+- IT-Dienstleistende
+##### Expertinnen und Experten in Ihrem Haus:
+- Datenschutzbeauftragte
+- IT-Fachkräfte
+- Prozessmodellierende
+##### Weitere Expertinnen und Experten können sein:
+- Umsetzungsakteuerinnen und -akteure sowie deren IT- oder Rechtsabteilungen
+- IT-Dienstleistende
+- Wissenschaft, zivilgesellschaftliche Organisationen, Think-Tanks, Nichtregierungsorganisationen, Verbände
+
+**_Wie haben Sie geprüft, ob die Umsetzung des Regelungsvorhabens den Bedürfnissen der Be-
+troffenen und den Anforderungen in der Umsetzung entsprechen wird?_**
+Bitte listen Sie stichpunktartig auf, ob bzw. welche Schritte Sie unternommen haben.
+Zum Beispiel: frühzeitige Befragung von Bürgerinnen und Bürgern, Gespräche mit Vollzugsakteurinnen- und akteuren oder Expertinnen und Experten, formelle Beteiligungsverfahren.
+
+_[Freitextfeld]_
+
+**_Wie spiegeln sich die Erkenntnisse, die durch die oben genannten Schritte gewonnen wurden,
+im Regelungsvorhaben wider?_** Bitte listen Sie stichpunktartig auf, welche Erkenntnisse einge-
+arbeitet wurden und geben Sie Hinweise auf Paragrafen, die besonders umsetzungsrelevant sind.
+
+_[Freitextfeld]_
+
   
