@@ -17,9 +17,7 @@ Der Digitalcheck wird iterativ erarbeitet und kontinuierlich verbessert – auch
 
 ### DIE SCHRITTE DES DIGITALCHECK
 
-![Die zwei Schritte des Digitalcheck nacheinander auf einer Zeitachse abgebildet](./img/Ablauf-V1-3-hoch.png "Ablaufdiagramm des Digitalchecks")
-
-1. Mit der Vorprüfung (in diesem Dokument) schätzen Sie den Digitalbezug Ihres Regelungsvorhabens ein.
+1. **Mit der Vorprüfung (in diesem Dokument) schätzen Sie den Digitalbezug Ihres Regelungsvorhabens ein.**
 
 2. Mit den Hilfestellungen erarbeiten Sie ein digitaltaugliches Regelungsvorhaben.
 Die begleitende Dokumentation schicken Sie an das Sekretariat des Normenkontrollrats.
@@ -28,9 +26,12 @@ Benötigen Sie Hilfe? Sie erreichen uns unter [digitalcheck@digitalservice.bund.
 
 Version 1.3 - 07.05.2024 | Bitte benutzen Sie die aktuelle Version der Dokumente. Diese finden Sie hier: [digitalcheck.bund.de](https://digitalcheck.bund.de)
 
-## Schritt 1 des Digitalcheck
-## Vorprüfung: Digitalbezug einschätzen
-**Version 1.3 – 0705.2024**
+---
+
+Version 1.3 – 07.05.2024
+
+### Schritt 1 des Digitalcheck
+# Vorprüfung: Digitalbezug einschätzen
 
 ### ZUSAMMENGEFASST
 Führen Sie die Vorprüfung zu Beginn Ihrer Arbeit an einem Regelungsvorhaben durch, das heißt: vor der Formulierung eines Regelungstextes.
