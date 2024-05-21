@@ -1,7 +1,8 @@
 Version 1.3 - 07.05.2024
 
 **Der Digitalcheck**
-#Fünf Prinzipien für digitaltaugliche Gesetzgebung
+
+# Fünf Prinzipien für digitaltaugliche Gesetzgebung
 
 ## 1 Digitale Kommunikation sicherstellen
 Für eine digitale Umsetzung müssen neue Regelungsvorhaben die digitale Kommunikation sicherstellen: beispielsweise zwischen Verwaltungen untereinander oder zwischen Verwaltung und Unternehmen, Bürgerinnen und Bürgern oder anderen gesellschaftlichen Akteurinnen und Akteuren.
