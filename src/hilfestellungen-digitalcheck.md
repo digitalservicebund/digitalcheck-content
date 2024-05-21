@@ -143,6 +143,7 @@ Der Digitalcheck wird iterativ erarbeitet und kontinuierlich verbessert – auch
 1. Mit der Vorprüfung (in diesem Dokument) schätzen Sie den Digitalbezug Ihres Regelungsvorhabens ein.
 
 2. **Mit den Hilfestellungen (in diesem Dokument) erarbeiten Sie ein digitaltaugliches Regelungsvorhaben.**
+Die begleitende Dokumentation schicken Sie an das Sekretariat des Normenkontrollrats.
 
 Benötigen Sie Hilfe? Sie erreichen uns unter [digitalcheck@digitalservice.bund.de](mailto:digitalcheck@digitalservice.bund.de) oder 0151 4076 7839. Wir helfen Ihnen weiter.
 
