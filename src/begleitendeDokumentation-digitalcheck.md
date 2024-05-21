@@ -1,123 +1,209 @@
 Version 1.3 – 07.05.2024
 
 ### Schritt 2 des Digitalcheck
-# Hilfestellungen, um ein digitaltaugliches Regelungsvorhaben zu erarbeiten
+# Begleitende Dokumentation der Digitaltauglichkeit
 
 ### ZUSAMMENGEFASST
+- Nutzen Sie die begleitende Dokumentation bereits während Ihres Recherche- und Schreibprozesses.
+- Weitere Anleitungen und Tipps finden Sie im separaten Dokument ›Hilfestellungen‹
+- Wenn Sie mehrere Regelungen ändern, bündeln Sie diese als inhaltlich sinnvolle Vorhaben, für die Sie jeweils einen Digitalcheck durchführen.
+- Senden Sie die begleitende Dokumentation so früh wie möglich an das NKR-Sekretariat, spätestens mit der Einleitung der Ressortabstimmung.
 
-Im zweiten Schritt geht es darum, dass Sie **Ihr Regelungsvorhaben so digitaltauglich wie möglich formulieren**. In diesem Schritt haben Sie den größten Einfluss auf die Digitaltauglichkeit. Nutzen Sie daher aktiv den Gestaltungsspielraum, den Sie am Anfang der Arbeit an einem Vorhaben haben.
+### Die Dokumentation begleitet Ihre Arbeit an der Regelung
 
-- Visualisieren Sie die Umsetzung Ihrer Regelungsidee (möglichst vor der ersten Verschriftlichung).
-- Beziehen Sie andere Blickwinkel ein.
-- Orientieren Sie sich an den fünf Prinzipien für digitaltaugliche Gesetzgebung.
-- Arbeiten Sie mit der begleitenden Dokumentation. Fangen Sie damit früh an. Diese schicken Sie zur Prüfung der Digitaltauglichkeit an das NKR-Sekretariat. **Dieser Schritt ist verbindlich.**
+Nutzen Sie die Dokumentation, während Sie Ihr Regelungsvorhaben schreiben: Je früher Sie beginnen, desto besser. Begleitend zu Ihrem Recherche- und Schreibprozess unterstützt Sie die Dokumentation dabei, die unterschiedlichen Aspekte von Digitaltauglichkeit zu berücksichtigen. Dies dient Ihrer eigenen Qualitätssicherung.
 
-### Visualisieren Sie die Umsetzung des Regelungsvorhabens
+Bei Fragen können Sie sich von Ihrer Ansprechperson im NKR-Sekretariat oder dem Digitalcheck Team ([digitalcheck@digitalservice.bund.de](mailto:digitalcheck@digitalservice.bund.de), 0151 4076 7839) beraten lassen. Planen Sie genug Zeit ein, um Ihre Fragen zu klären und ggf. Anpassungen an Ihrem Regelungsvorhaben vorzunehmen.
 
-Eine Visualisierung der Umsetzung Ihres Regelungsvorhabens hilft Ihnen dabei, die Auswirkung der Umsetzung auf Betroffene* besser zu verstehen. Zusammenhänge werden sichtbar und Sie können Möglichkeiten der Digitalisierung in der Umsetzung identifizieren.
+Schicken Sie die begleitende Dokumentation so früh wie möglich an Ihre Ansprechperson im NKR-Sekretariat, spätestens mit der Einleitung der Ressortabstimmung. Fügen Sie die Dokumentation des Digitalcheck und Visualisierungen des Umsetzungsprozesses gerne auch der Ressortabstimmung bei, damit Ihre Kolleginnen und Kollegen Ihre Entscheidungen nachvollziehen können.
 
-_* Von dem Regelungsvorhaben Betroffene sind jene, die selbst Zielgruppe des Vorhabens sind oder für die sich Rahmenbedingungen durch dieses Regelungsvorhaben ändern._
+### Das prüft der Nationale Normenkontrollrat
 
-Visualisieren Sie vor der ersten Textarbeit, um Aspekte der Digitaltauglichkeit frühzeitig zu erkennen und bei der Verschriftlichung Ihres Regelungsvorhabens berücksichtigen zu können.
+Der NKR prüft das Regelungsvorhaben auf Möglichkeiten der digitalen Umsetzung auf Basis des von Ihnen durchgeführten Digitalcheck. Das wesentliche Prüfkriterium ist die methodische und inhaltliche Nachvollziehbarkeit. Sein Prüfergebnis veröffentlicht er gegebenenfalls in seinen Stellungnahmen. Wenn Sie eine Visualisierung angefertigt haben und Sie der Veröffentlichung zustimmen, kann diese an die Stellungnahme angehängt werden. Bei Fragen oder Anregungen kommt Ihre Ansprechperson im NKR-Sekretariat auf Sie zu.
 
-#### Vorteile von Visualisierungen
-- Visuelle Darstellungen komplexer Sachverhalte sind schneller und intuitiver erfassbar als Text.
-- Beim Visualisieren setzen Sie sich mit digitalen Möglichkeiten auseinander, dadurch entstehen neue Lösungen.
-- Visualisierungen helfen bei der Kommunikation Ihrer Regelungsidee (z. B. in Abstimmungen, Gesprächen mit Umsetzungsinstanzen).
-- Eine digitale Umsetzung schafft neue Möglichkeiten und erfordert dadurch andere Prozesse, die sich gut visuell abbilden lassen (z. B. Zusammenfassung von Schritten durch Automatisierung, Datenabgleich/-austausch, Entscheidungslogiken).
-- Eine Visualisierung hilft Ihnen, Logikbrüche, Medienbrüche, Inkonsistenzen, offene Verfahrensenden, Schleifen, uneinheitliche Rechtsbegriffe zu erkennen. Sie kann Ihnen außerdem dabei helfen, vermeidbare Schriftformerfordernisse oder analoge Nachweise zu erkennen und zu vermeiden.
+### Tipps zum Arbeiten mit der Dokumentation
+Sie können bei jeder der folgenden Fragen digitaltaugliche Aspekte hervorheben oder erläutern, weshalb in bestimmten Fällen von einer Digitalisierung abgesehen wird. 
+Inhaltliche Stichpunkte mit Verweis auf den entsprechenden Paragrafen in Ihrem Re gelungsvorhaben sind als Erläuterung ausreichend. Verweisen Sie ggf. auch auf andere anwendbare Regelungen.
 
-#### Welche Art der Visualisierung geeignet ist
-Es gibt unterschiedliche Arten der Visualisierung (oft auch Notationen genannt). Je nach Zielsetzung eignen sich unterschiedliche Visualisierungen: etwa Nutzerreisen, Entscheidungsbäume oder Datenflüsse. Für die Darstellung von Prozessen gibt es standardisierte Methoden, wie z. B. BPMN (Business Process Modeling Notation) oder den Standard des Föderalen Informationsmanagement (FIM). Wenn Sie bisher nicht mit Visualisierungen gearbeitet haben, empfehlen wir Ihnen ein Flussdiagramm.
+**Titel des Regelungsvorhabens**: _[Freitextfeld]_
 
-#### Visualisierungen des Bestandsrechts
-Gegebenenfalls liegen bereits Visualisierungen des Bestandrechts für Ihr Regelungsvorhaben vor, z.B. FIM-Prozessmodelle. Unter Anderem bei der Bundesredaktion können Sie nach bestehenden Visualisierungen für Ihr Regelungsvorhaben fragen: [Bundesredaktion@bmi.bund.de](mailto:bundesredaktion@bmi.bund.de)
+### Alle Fragen der begleitenden Dokumentation
 
-#### So erstellen Sie ein Flussdiagramm
-Notieren Sie, wer an der Umsetzung beteiligt ist, und welche Aufgaben und Zuständigkeiten entstehen. Fragen Sie sich:
-- Wer oder was ist beteiligt? (z. B. Bürger oder Bürgerin, eine Behörde, ein IT-System, IT-Fachverfahren, oder IT-Anwendung)
-- Was passiert? (z. B. prüft Angaben, sendet Daten)
-- Wann passiert etwas? (z. B. zeitliche oder prozessuale Abhängigkeit)
-- Wo passiert etwas? (z. B. Medium, Format, Ort, Datenbank)
-- Warum passiert etwas? (Hinweis auf den Paragrafen)
+- Die Umsetzung des Regelungsvorhabens visualisieren
+-  Wie haben Sie geprüft, ob die Umsetzung des Regelungsvorhabens den Bedürfnissen der Betroffenen und den Anfoderungen in der Umsetzung entsprechen wird?
+-  Wie spiegeln sich die Erkenntnisse, die durch die oben genannten Schritte gewonnen wurden, im Regelungsvorhaben wieder?
+- Schafft das Regelungsvorhaben die Voraussetzungen für eine digitale Kommunikation?
+- Schafft das Regelungsvorhaben die Voraussetzungen für eine Wiederverwendung von Daten und Standards?
+- Schafft das Regelungsvorhaben die Voraussetzungen für eine Gewährleistung von Datenschutz und Informationssicherheit?
+- Enthält das Vorhaben klare Regelungen für eine digitale Ausführung?
+- Ermöglicht das Regelungsvorhaben eine automatisierte Umsetzung?
 
-Der Start mag Ihnen leichter fallen, wenn Sie als Basis eine zeitliche Abfolge wählen. Wenn Sie mit Stift und Papier beginnen, finden Sie nachfolgend hier einige Elemente, die Sie nutzen können:
+### Die Umsetzung des Regelungsvorhabens visualisieren
 
-![Grafische Darstellung der oben beschriebenen Visualisierungs-Elemente](./img/Visualisierung-Elemente.png "Visualisierungs-Elemente eines Flussdiagramms")
+#### Darum ist das wichtig:
+Eine Visualisierung der Umsetzung Ihres Regelungsvorhabens hilft Ihnen dabei, die Auswirkung der Umsetzung auf Betroffene besser zu verstehen: Zusammenhänge werden sichtbar und Sie können Möglichkeiten der Digitalisierung in der Umsetzung identifizieren. Von dem Regelungsvorhaben Betroffene sind jene, die selbst Zielgruppe des Vorhabens sind oder für die sich Rahmenbedingungen durch dieses Regelungsvorhaben ändern.
 
-Mehr zur Visualisierung mit Flussdiagrammen finden Sie hier: [ondea.de/DE/ZfL/ZfL_node.html](https://www.ondea.de/DE/ZfL/ZfL_node.html), Modul 10 im Video “Visualisierung“.
+#### Tipps für Visualisierungen:
+Es gibt unterschiedliche Arten der Visualisierung (oft auch Notationen genannt). Je nach Zielsetzung eignen sich unterschiedliche Visualisierungen: etwa Nutzerreisen, Entscheidungsbäume oder Datenflüsse. Für die Darstellung von Prozessen gibt es standardisierte Methoden, wie z. B. BPMN (Business Process Modeling Notation) oder den Standard des Föderalen Informationsmanagement (FIM). Wenn Sie bisher nicht mit Visualisierungen gearbeitet haben, empfehlen wir Ihnen ein Flussdiagramm. Das Vorgehen ist im Dokument ›Hilfestellungen‹ auf [digitalcheck.bund.de](https://digitalcheck.bund.de) unter ›Visualisieren Sie die Umsetzung des Regelungsvorhabens‹ beschrieben. Bei Fragen wenden Sie sich an das Digitalcheck Team (0151 4076 7839, [digitalcheck@digitalservice.bund.de](mailto:digitalcheck@digitalservice.bund.de)).
 
-#### Wenn die erste Skizze steht: Nutzen Sie die fünf Prinzipien für digitaltaugliche Gesetzgebung
+_Hängen Sie visuelle Darstellungen und Skizzen gerne formlos als PDF an._
 
-Markieren Sie in Ihrer Visualisierung, in welchen Schritten die fünf Prinzipien (s. Seite 6 in diesem Dokument) für digitaltaugliche Gesetzgebung relevant sein könnten. Gehen Sie dabei Prinzip für Prinzip durch. Lassen Sie die gewonnenen Erkenntnisse in die digitaltaugliche Gestaltung des Regelungsvorhabens einfließen.
+### Auswirkungen auf Betroffene und an der Umsetzung Beteiligte
 
-#### Arbeiten Sie von grob zu fein
+#### Darum ist das wichtig:
 
-Beginnen Sie mit reduzierten Informationen und ergänzen Sie nach und nach Details in Ihrer Visualisierung. Fangen Sie wortwörtlich mit Stift auf Papier an. Im Mittelpunkt steht der Nutzen der Visualisierung, nicht das verwendete Programm oder die perfekte Anwendung einer Notationsform.
+Ihr Regelungsvorhaben soll den Bedürfnissen der Betroffenen gerecht werden. Außerdem soll es die Anforderung in der Umsetzung berücksichtigen, beispielsweise in den zuständigen Behörden.
 
-#### Hier bekommen Sie Hilfe
+#### Tipps für Ihr Regelungsvorhaben:
+Um frühzeitig die Bedürfnisse derer zu verstehen, für die das Gesetz geschrieben wird, holen Sie sich Informationen ein, z. B. in Gespräche mit den Betroffenen und Umsetzenden selbst – häufig genügen bereits fünf bis sechs persönliche Gespräche.
 
-In Ihrem Referat, in Ihrem Ministerium oder in nachgelagerten Behörden kann es Kolleginnen und Kollegen geben, die bereits mit Visualisierungen arbeiten oder an einem der Digitalcheck Workshops teilgenommen haben. Bitten Sie sie um Unterstützung oder wenden Sie sich an das Digitalcheck Team (0151 4076 7839, [digitalcheck@digitalservice.bund.de](mailto:digitalcheck@digitalservice.bund.de)).
+Expertinnen und Experten für Digitalisierung, Datenschutz und Gestaltung von Dienstleistungen können Ihre Fragen beantworten und Sie auf wichtige, Ihnen bisher unbekannte Aspekte aufmerksam machen. Wenden Sie sich auch gerne an das Digitalcheck Team (0151 4076 7839, [digitalcheck@digitalservice.bund.de](mailto:digitalcheck@digitalservice.bund.de))
 
-#### Die Darstellungen helfen auch denen, die Ihr Regelungsvorhaben umsetzen
+##### Betroffene können sein:
+- Bürgerinnen und Bürger
+- Unternehmen, Vereine, weitere Organisationen
+- Kommunen, Verwaltung und Behörden
 
-Personen, die Ihre Regelungen digital umsetzen (z. B. Programmiererinnen und Programmierer), denken in Prozessen, Strukturen, Systemen und Zusammenhängen. Eine Visualisierung des Umsetzungsprozesses hilft Ihnen beim Verstehen und Übersetzen Ihrer Regelungsvorhaben und verbessert die Umsetzung.
+##### Beteiligte an der Umsetzung können sein:
+- Unternehmen, Vereine, weitere Organisationen
+- Kommunen, Verwaltungen und Behörden, deren IT- oder Rechtsabteilungen
+- IT-Dienstleistende
 
-Hängen Sie Ihre Visualisierung – schon einfache Scans oder Fotos von Skizzen – Ihrem Regelungsentwurfs an und erleichtern Sie Ihren Kolleginnen und Kollegen z.B. in der Ressortabstimmung oder dem NKR das Verständnis ihres Vorhabens.
+##### Expertinnen und Experten in Ihrem Haus:
+- Datenschutzbeauftragte
+- IT-Fachkräfte
+- Prozessmodellierende
 
-#### Tipp: Schaffen Sie ein gemeinsames Verständnis
-Visualisieren Sie gemeinsam. Arbeiten Sie mit Kolleginnen und Kollegen aus Ihrem Referat und anderen Abteilungen zusammen, um Auswirkungen auf angrenzende Rechtsbereiche zu verstehen. Wichtiges Praxiswissen kann von Expertinnen und Experten, Mitarbeitern in den zuständigen Behörden sowie von den betroffenen Bürgerinnen und Bürgern als auch von Unternehmen eingeholt werden. Die Zusammenarbeit schafft ein gemeinsames Verständnis des Regelungsvorhabens und der Umsetzungsmöglichkeiten. Die Diskussion ist häufig ebenso wertvoll wie die entstandene Visualisierung selbst.
+##### Weitere Expertinnen und Experten können sein:
+- Umsetzungsakteuerinnen und -akteure sowie deren IT- oder Rechtsabteilungen
+- IT-Dienstleistende
+- Wissenschaft, zivilgesellschaftliche Organisationen, Think-Tanks, Nichtregierungsorganisationen, Verbände
 
-### Beziehen Sie andere Blickwinkel ein 
+**_Wie haben Sie geprüft, ob die Umsetzung des Regelungsvorhabens den Bedürfnissen der Betroffenen und den Anforderungen in der Umsetzung entsprechen wird?_**
+Bitte listen Sie stichpunktartig auf, ob bzw. welche Schritte Sie unternommen haben.
+Zum Beispiel: frühzeitige Befragung von Bürgerinnen und Bürgern, Gespräche mit Vollzugsakteurinnen- und akteuren oder Expertinnen und Experten, formelle Beteiligungsverfahren.
 
-#### Sprechen Sie mit denen, die Ihr Regelungsvorhaben umsetzen 
+_[Freitextfeld]_
 
-Überlegen Sie, wer für die Umsetzung Ihres Regelungsvorhabens zuständig ist. Verstehen Sie so früh wie möglich die Anforderungen derer, die das Regelungsvorhaben in digitale Anwendungen umsetzen und mit diesen arbeiten werden. Dieses Praxiswissen ermöglicht eine reibungslose Umsetzung.
+**_Wie spiegeln sich die Erkenntnisse, die durch die oben genannten Schritte gewonnen wurden, im Regelungsvorhaben wider?_** Bitte listen Sie stichpunktartig auf, welche Erkenntnisse eingearbeitet wurden und geben Sie Hinweise auf Paragrafen, die besonders umsetzungsrelevant sind.
 
-- Definieren Sie, wer Ihr Regelungsvorhaben umsetzt. Für einen strukturierten Überblick
-eignen sich bspw. Stakeholder-Karten.
-- Analysieren Sie die Anforderungen derjenigen, die an der Umsetzung Ihres Regelungsvorhabens beteiligt sind. Welche Prozesse oder IT-Systeme gibt es bereits? Müssen diese angepasst werden und wie viel Zeit oder Kapazität steht dafür zur Verfügung? Über welches Wissen und Erfahrung verfügen die Mitarbeitenden? Gibt es bestehende (Open Source-) Software (z.B. IT-Fachverfahren)?
-- Überlegen Sie, ob und wie Ihr Regelungsvorhaben digital umgesetzt wird. Welche Daten können nachgenutzt werden? Muss dafür eine Rechtsgrundlage geschaffen werden? Welche Daten oder Prozesse müssen neu geschaffen werden und wer ist dafür zuständig? Wie lange wird die Umsetzung etwa dauern, und welche zeitlichen Abhängigkeiten ergeben sich daraus? Welche Chancen und Hürden sehen Sie für die Beteiligten und deren Rahmenbedingungen?
+_[Freitextfeld]_
 
-#### Sprechen Sie mit denen, die von der Umsetzung betroffen sind
+### Prinzip 1 für digitaltaugliche Gesetzgebung: Digitale Kommunikation sicherstellen
 
-Um frühzeitig die Bedürfnisse derer zu erfahren, für die ihr Regelungsvorhaben geschrieben wird, empfehlen wir, persönliche Gespräche mit Betroffenen zu führen. So stellen Sie sicher, dass das Wirkungsziel tatsächlich erreicht wird. In fünf bis sechs informellen Gesprächen können Sie bereits wertvolle Erkenntnisse sammeln. Von der Umsetzung Betroffene sind jene, die selbst Zielgruppe des Regelungsaspekts sind, oder für die sich Rahmenbedingungen durch das Regelungsvorhaben ändern.
+#### Darum ist das wichtig:
+Bürgerinnen und Bürger, Mitarbeitende in Unternehmen, weiteren Organisationen und der Verwaltung sind meist an digitale Kommunikation gewöhnt. In der Verwaltung und den Behörden erlaubt eine durchgehend digitale Dokumentation, Bearbeitung und ggf. Prüfung eine effizientere Bearbeitung.
 
-Beispiele hierfür:
-- Bürgerinnen und Bürger, die eine Leistung beantragen oder Unterlagen einreichen.
-- Behörden, die eine (digitale) Leistung selbst anwenden.
-- Unternehmen, die Informationen bereitstellen oder Dokumentationen anfertigen.
-- Weitere Organisationen, die Daten bereitstellen.
+Digitale Kommunikation sollte immer bedarfsorientiert und inklusiv sein – in bestimmten Fällen kann z. B. ergänzend auch die Schriftform sinnvoll sein, sofern eine digitale Weiterverarbeitung sichergestellt ist.
 
-#### Ziehen Sie Expertinnen und Experten hinzu
+#### Tipps für Ihr Regelungsvorhaben: 
+- Wählen Sie Formulierungen, die den Einsatz von unterschiedlichen Medien, Technologien und Verfahren ermöglichen.
+- Sollten Sie technologische Lösungen festschreiben, ermöglichen Sie den Einsatz von offenen Technologien, so sorgen Sie für Transparenz und Wiederverwendbarkeit.
+- Ersetzen oder ergänzen Sie Schriftformerfordernisse und analoge Nachweispflichten. Prüfen Sie etwa, ob die Textform ausreichend ist und ermöglichen Sie die digitale Bearbeitung.
+- Vermeiden Sie Medienbrüche. Diese können z. B. durch visuelle Darstellung des Vollzugs, wie Flussdiagramme, erkennbar werden (s. Methode: ›Visualisieren Sie den Vollzug‹).
+- Erfüllen Sie Anforderungen der Barrierefreiheit und beachten Sie die Bedarfe unterschiedlicher Personengruppen.
 
-Zusätzliche Expertise in den Bereichen Digitalisierung, Datenschutz, Barrierefreiheit und Gestaltung von Dienstleistungen kann Ihnen dabei helfen, konkrete Fragen zu beantworten und die digitale Umsetzung besser zu verstehen. Das gibt Ihnen wichtige Impulse zu Aspekten, die Sie bei der Erarbeitung Ihres Regelungsvorhabens bedenken sollten. Expertise finden Sie unter anderem direkt in Ihrem Haus: In jedem Ministerium arbeiten Expertinnen und Experten beispielsweise zu Datenschutz und Barrierefreiheit. In diesen Themen hilft Ihnen auch der Bundesbeauftragte für den Datenschutz und die Informationsfreiheit (BfDI). Kolleginnen und Kollegen, die schon einmal ein ähnliches Vorhaben bearbeitet haben, können Ihnen ggf. ebenso weiterhelfen. Auch auf das Fachwissen in nachgelagerten Behörden können Sie zurückgreifen oder externe Expertise aus Wissenschaft, Wirtschaft und Zivilgesellschaft einbinden.
+**_Schafft das Regelungsvorhaben die Voraussetzungen für eine digitale Kommunikation?_** Bitte kreuzen Sie eine der Optionen an und listen Sie zwei bis drei Stichpunkte auf. Verweisen Sie dabei auf die jeweiligen Paragrafen und ggf. auch auf andere anwendbare Regelungen.
+**Zum Beispiel:** “Online-Beratung wird ermöglicht, siehe § 1a (2)”.
 
-Sie können auch die Digital- & Umsetzungsexpertise des Digitalcheck Teams für eine vertrauliche Beratung und Unterstützung in Anspruch nehmen. Je früher in Ihrem Vorhaben Sie auf das Beratungsangebot zukommen, desto besser kann das Team Sie unterstützen. (0151 4076 7839, [digitalcheck@digitalservice.bund.de](mailto:digitalcheck@digitalservice.bund.de))
+- Ja
+- Nein
+- Teilweise
+- Nicht relevant
 
-#### Tipp: Arbeiten Sie im Team
+Erläuterung: _[Freitextfeld]_
 
-Gemeinsam mit anderen gelingt es Ihnen besser, alle relevanten Aspekte und Blickwinkel für digitaltaugliche Regelungen zu identifizieren. Tauschen Sie sich darum beispielsweise für die Vorprüfung mit Personen aus Ihrem Referat aus oder erstellen Sie Visualisierungen in der Gruppe.
+### Prinzip 2 für digitaltaugliche Gesetzgebung: Wiederverwendung von Daten und Standards ermöglichen
 
-### Orientieren Sie sich an den fünf Prinzipien für digitaltaugliche Gesetzgebung
+#### Darum ist das wichtig:
+Häufig sind Daten von Personen oder Organisationen in verschiedenen Prozessen relevant. Das heißt, dass die Daten, die für Ihr Regelungsvorhaben benötigt werden, an anderer Stelle bereits vorliegen könnten. Sie sollten wiederverwendet werden, damit Bürgerinnen und Bürger oder Unternehmen Daten kein weiteres Mal angeben müssen und Verfahren vereinfacht werden. Auch die Wiederverwendung von Open-Source-Software, Standards oder sogar einzelner Design- oder Software-Komponenten vereinfacht Verfahren und spart Ressourcen.
 
-Nutzen Sie die fünf Prinzipien für digitaltaugliche Gesetzgebung bei der Arbeit am Regelungsvorhaben:
+#### Tipps für Ihr Regelungsvorhaben:
+Recherchieren Sie für Ihr Regelungsvorhaben relevante bestehende Standards, Komponenten, Richtlinien, Verfahren zur Datenerfassung, Datenaustauschverfahren (Once-Only-Prinzip) sowie Register und weitere Quellen. Erste Anhaltspunkte finden Sie zum Beispiel auf:
+- der Verwaltungsdaten-Informationsplattform: [verwaltungsdaten-informationsplattform.de](https://www.verwaltungsdaten-informationsplattform.de/DE/Home/home_node.html)
+- der Registerlandkarte: [registerlandkarte.de](https://registerlandkarte.de/landingpage)
+- der Open Source Plattform der Verwaltung: [opencode.de](https://opencode.de/de)
 
-1. Digitale Kommunikation sicherstellen
-2. Wiederverwendung von Daten & Standards ermöglichen
-3. Datenschutz & Informationssicherheit gewährleisten
-4. Klare Regelungen für eine digitale Ausführung finden
-5. Automatisierung ermöglichen
+**_Schafft Ihr Regelungsvorhaben die Voraussetzungen für eine Wiederverwendung von Daten
+und Standards?_** Bitte kreuzen Sie eine der Optionen an und listen Sie zwei bis drei Stichpunkte auf. Verweisen Sie dabei auf die jeweiligen Paragrafen und ggf. auch auf andere anwendbare Regelungen.
+**Zum Beispiel:** “Datenstandard definiert, siehe § 3a, rechtliche Voraussetzung zum Datenaustausch geschaffen, siehe § 3b”.
 
-Sie finden die Prinzipien in detaillierter Ausführung und mit Beispielen versehen in der begleitenden Dokumentation und als A4-Poster auf [digitalcheck.bund.de](https://digitalcheck.bund.de).
+- Ja
+- Nein
+- Teilweise
+- Nicht relevant
 
-Funktionsweise und Hintergrund der Prinzipien werden in diesem Blogbeitrag erklärt: [digitalservice.bund.de/blog/digitalcheck-fuenf-prinzipien-fuer-digitaltaugliche-gesetze](https://digitalservice.bund.de/blog/digitalcheck-fuenf-prinzipien-fuer-digitaltaugliche-gesetze)
+Erläuterung: _[Freitextfeld]_
 
-### Arbeiten Sie mit der begleitenden Dokumentation des Digitalcheck
+### Prinzip 3 für digitaltaugliche Gesetzgebung: Datenschutz und Informationssicherheit gewährleisten
 
-Die begleitende Dokumentation greift die anderen Methoden zur Erarbeitung digitaltauglicher Regelungen auf: die Visualisierung des Vollzugs, das Einbeziehen anderer Blickwinkel und die fünf Prinzipien der Digitaltauglichkeit. Die besten Ergebnisse erhalten Sie, wenn Sie sich bereits in der Recherche mit der begleitenden Dokumentation auseinandersetzen. Neue Erkenntnisse tragen Sie fortlaufend ein, damit Ihre Kolleginnen und Kollegen und der NKR Ihre Entscheidungen zur Digitaltauglichkeit nachvollziehen können.
+#### Darum ist das wichtig:
+Datenschutz und Informationssicherheit sind zentrale Voraussetzungen für praxistaugliche Digitalisierung – frühzeitig mitgedacht können Bedürfnisse von Betroffenen auf einfache Weise mit Daten- und Informationssicherheit vereinbart werden. Das Regelungsvorhaben soll eine datenschutzkonforme Umsetzung ermöglichen: Vor der Erhebung von Daten muss definiert werden, welche Daten zu welchem Zweck benötigt und wie sie geschützt werden.
 
-Die begleitende Dokumentation unterstützt Sie dabei, **alle Aspekte der Digitaltauglichkeit zu berücksichtigen.** Sie finden sie hier: [digitalcheck.bund.de](https://digitalcheck.bund.de).
+#### Tipps für Ihr Regelungsvorhaben:
+- Beteiligen Sie frühzeitig Expertinnen und Experten für Datenschutz und Informationssicherheit, um datenschutzkonforme Regelungen zu schreiben. Anhaltspunkte dafür geben auch geltende Richtlinien und Ausführungsbestimmungen z.B. vom BSI.
+- Schaffen Sie die Rechtsgrundlage, um alle benötigten Daten zu erfassen und zu verarbeiten.
+- Berücksichtigen Sie die finanziellen und personellen Ressourcen, die für die Umsetzung der Vorgaben der Informationssicherheit nötig sind.
+
+**_Schafft das Regelungsvorhaben die Voraussetzungen für eine Gewährleistung von Datenschutz und Informationssicherheit?_** Bitte kreuzen Sie eine der Optionen an und listen Sie zwei bis drei Stichpunkte auf. Verweisen Sie dabei auf die jeweiligen Paragrafen und ggf. auch auf andere anwendbare Regelungen.
+**Zum Beispiel:** “Bedingungen für die Verwendung von Kontaktdaten, siehe § 1a (2)”.
+
+- Ja
+- Nein
+- Teilweise
+- Nicht relevant
+
+Erläuterung: _[Freitextfeld]_
+
+### Prinzip 4 für digitaltaugliche Gesetzgebung: Klare Regelungen für eine digitale Ausführung finden
+
+#### Darum ist das wichtig:
+Durch eindeutige und klare Formulierungen können die Regelungen verständlich dargestellt und die digitale Umsetzung erleichtert werden. Komplizierte, schwer verständliche Regelungskonstrukte erschweren eine digitale Ausführung.
+
+#### Tipps für Ihr Regelungsvorhaben:
+- Formulieren Sie die Texte Ihres Regelungsvorhaben so, dass es in der Umsetzung in Aufgaben und chronologische Schritte übersetzt werden kann.
+- Formulieren Sie klare Entscheidungsstrukturen. Nutzen Sie dafür eindeutige Kriterien und eine kohärente und logische Systematik. Ausnahmen sind klar gekennzeichnet. Testen Sie die Verständlichkeit mit den Personen, die an der Umsetzung beteiligt sind.
+- Versuchen Sie, Rechtsbegriffe zu harmonisieren. Verwenden Sie definierte Rechtsbegriffe aus Ihrem Rechtsbereich. Auslegungen verhindern eine einheitliche Umsetzung.
+
+**_Enthält das Vorhaben klare Regelungen für eine digitale Ausführung?_** Bitte kreuzen Sie eine der Optionen an und listen Sie zwei bis drei Stichpunkte auf. Verweisen Sie dabei auf die jeweiligen Paragrafen und ggf. auch auf andere anwendbare Regelungen.
+**Zum Beispiel:** “Hinweis auf Begriffsdefinitionen, siehe § 1a (2); Voraussetzungen, Pauschalen und Freibeträge für Leistungsbezug definiert, siehe § 5”.
+
+- Ja
+- Nein
+- Teilweise
+- Nicht relevant
+
+Erläuterung: _[Freitextfeld]_
+
+### Prinzip 5 für digitaltaugliche Gesetzgebung: Automatisierung ermöglichen
+
+#### Darum ist das wichtig:
+
+Digitale Lösungen zu erstellen, ist zunächst aufwändig. Die “Duplikation” oder Skalierung kostet jedoch (fast) nichts. Daher ist es personell und wirtschaftlich sinnvoll, sich wiederholende Schritte, Prozesse oder Vorgehen zu automatisieren.
+Ein Regelungsvorhaben, das Ermessensspielraum lässt, kann nicht vollständig automatisiert werden: Soweit es dem Regelungsziel dient, sollte darauf verzichtet werden. Dadurch entstehen zeitliche und finanzielle Freiräume für Fälle, die eine gesonderte Auseinandersetzung benötigen.
+
+#### Tipps für Ihr Regelungsvorhaben:
+- Schaffen Sie die rechtlichen Möglichkeiten für automatisierte und/oder antragslose Verfahren. Prüfen Sie z. B. die Möglichkeit von Pauschalen.
+- Formulieren Sie klare Entscheidungsstrukturen. Nutzen Sie dafür eindeutige Kriterien und eine kohärente und logische Systematik. Beziehen Sie IT-Expertise mit ein.
+- Versuchen Sie, Rechtsbegriffe zu harmonisieren. Verwenden Sie definierte Rechtsbegriffe aus Ihrem Rechtsbereich. Auslegungen verhindern die vollständige Automatisierung von Umsetzungsprozessen.
+
+**_Ermöglicht das Regelungsvorhaben eine automatisierte Umsetzung?_** Bitte kreuzen Sie eine der Optionen an und listen Sie zwei bis drei Stichpunkte auf. Verweisen Sie dabei auf die jeweiligen Paragrafen und ggf. auch auf andere anwendbare Regelungen.
+**Zum Beispiel:** “Verzicht auf persönliches Erscheinen, siehe § 4”.
+
+- Ja
+- Nein
+- Teilweise
+- Nicht relevant
+
+Erläuterung: _[Freitextfeld]_
+
+### Das passiert als Nächstes
+
+Schicken Sie die begleitende Dokumentation so früh wie möglich an Ihre Ansprechperson im NKR-Sekretariat, spätestens mit der Einleitung der Ressortabstimmung. Die für Ihr Haus zuständige Ansprechperson finden Sie hier: [normenkontrollrat.bund.de/Webs/NKR/DE/der-nkr/sekretariat/sekretariat_node.html](https://www.normenkontrollrat.bund.de/Webs/NKR/DE/der-nkr/sekretariat/sekretariat_node.html)
+
+Der NKR prüft gemäß seines Auftrags die Nachvollziehbarkeit der Digitaltauglichkeit Ihres Regelungsentwurfes anhand der Fragen, die Sie in der Dokumentation beantwortet haben. Gegebenenfalls kommt Ihre Ansprechperson im NKR-Sekretariat mit Fragen oder Anregungen auf Sie zu.
+
+Fügen Sie die Dokumentation des Digitalcheck und Visualisierungen des Umsetzungsprozesses gerne auch der Ressortabstimmung bei, damit Ihre Kolleginnen und Kollegen Ihre Entscheidungen nachvollziehen können.
 
 ---
 
@@ -142,7 +228,9 @@ Der Digitalcheck wird iterativ erarbeitet und kontinuierlich verbessert – auch
 
 1. Mit der Vorprüfung (in diesem Dokument) schätzen Sie den Digitalbezug Ihres Regelungsvorhabens ein.
 
-2. **Mit den Hilfestellungen (in diesem Dokument) erarbeiten Sie ein digitaltaugliches Regelungsvorhaben.**
+2. Mit den Hilfestellungen erarbeiten Sie ein digitaltaugliches Regelungsvorhaben.
+
+**Die begleitende Dokumentation (in diesem Dokument) schicken Sie an das Sekretariat des Normenkontrollrats.**
 
 Benötigen Sie Hilfe? Sie erreichen uns unter [digitalcheck@digitalservice.bund.de](mailto:digitalcheck@digitalservice.bund.de) oder 0151 4076 7839. Wir helfen Ihnen weiter.
 
