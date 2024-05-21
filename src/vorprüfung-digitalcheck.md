@@ -17,6 +17,8 @@ Der Digitalcheck wird iterativ erarbeitet und kontinuierlich verbessert – auch
 
 ### DIE SCHRITTE DES DIGITALCHECK
 
+![Die zwei Schritte des Digitalcheck nacheinander auf einer Zeitachse abgebildet](./img/Ablauf-V1-3-hoch.png "Ablaufdiagramm des Digitalchecks")
+
 1. Mit der Vorprüfung (in diesem Dokument) schätzen Sie den Digitalbezug Ihres Regelungsvorhabens ein.
 
 2. Mit den Hilfestellungen erarbeiten Sie ein digitaltaugliches Regelungsvorhaben.
