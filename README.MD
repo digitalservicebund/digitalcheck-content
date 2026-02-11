@@ -1,6 +1,8 @@
 # Digitalcheck documentation content
 
 This repository contains the content of the [Digitalcheck documents](https://www.digitale-verwaltung.de/Webs/DV/DE/transformation/digitalcheck/digitalcheck-node.htm). 
+These documents aren't actively deployed.
+This repository serves as an archive of past and present documents used on the website, presentations, trainings etc.
 
 ## Contributing
 
